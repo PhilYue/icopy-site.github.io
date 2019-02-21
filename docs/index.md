@@ -35,7 +35,7 @@
     }
 </script>
 
-[![Build Status](https://travis-ci.org/icopy-site/icopy-site.github.io.svg?branch=master)](https://travis-ci.org/icopy-site/icopy-site.github.io)
+[![Build Status](https://travis-ci.org/icopy-site/icopy-site.github.io.svg?branch=develop)](https://travis-ci.org/icopy-site/icopy-site.github.io)
 
 ## 提供的服务
 * *本站提供英文文档的中文镜像服务,镜像网站每周定期更新*

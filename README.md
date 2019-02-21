@@ -2,7 +2,7 @@
 # icopy.site
 
 
-[![Build Status](https://travis-ci.org/icopy-site/icopy-site.github.io.svg?branch=master)](https://travis-ci.org/icopy-site/icopy-site.github.io)
+[![Build Status](https://travis-ci.org/icopy-site/icopy-site.github.io.svg?branch=develop)](https://travis-ci.org/icopy-site/icopy-site.github.io)
 
 ## 提供的服务
 
