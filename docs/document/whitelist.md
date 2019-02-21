@@ -59,3 +59,5 @@
 * http://www.parallec.io
 * https://developer.apple.com
 * http://www.typescriptlang.org
+* https://www.haskell.org
+* https://elixir-lang.org
