@@ -35,8 +35,8 @@ theme:
   language: 'zh'
   favicon: '_static/img/favicon.ico'
   palette:
-    primary: 'white'
-    accent: 'red'
+    primary: 'blue'
+    accent: 'indigo'
   logo:
     icon: '_static/img/logo.png'
   font:
