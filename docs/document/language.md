@@ -8,7 +8,7 @@
 
 ### JVM 语言
        
-!!! tip "[Scala](http://scala.icopy.site)"
+!!! tip "[Scala](http://docs.scala-lang.org.s.icopy.site/)"
     Scala（发音为/ˈskɑːlə, ˈskeɪlə/）是一门多范式的编程语言，设计初衷是要集成面向对象编程和函数式编程的各种特性
   
 groovy,kotlin,clojure等  
@@ -17,11 +17,11 @@ groovy,kotlin,clojure等
 
 #### WEB 语言
 
-!!! tip "[TypeScript](http://typescript.icopy.site/)"
+!!! tip "[TypeScript](http://www.typescriptlang.org.icopy.site/docs/home.html)"
     TypeScript 是强类型的javascript超集,可以编译成javascript,运行在任何
     浏览器,主机和操作系统
 
-!!! tip "[Dart](https://dart.icopy.site/)"
+!!! tip "[Dart](http://www.dartlang.org.s.icopy.site/guides)"
     Dart是一种针对Web和移动设备的客户端开发而优化的语言
 
 PHP 
@@ -36,7 +36,7 @@ R语言
 !!! tip "[Golang](http://golang.org.s.icopy.site/doc/)"
     Golang是Google开发的一种静态强类型、编译型、并发型，并具有垃圾回收功能的编程语言
 
-!!! tip "[Python](http://python.icopy.site)"
+!!! tip "[Python](http://docs.python.org.s.icopy.site/3/)"
     Python（英国发音：/ˈpaɪθən/ 美国发音：/ˈpaɪθɑːn/），是一种广泛使用的高级编程语言    
     
 !!! tip "[Ruby](https://www.ruby-lang.org/zh_cn/)"

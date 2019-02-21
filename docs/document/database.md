@@ -10,12 +10,12 @@
 
 ### 实时数据库
 
-!!! tip "[RethinkDB](http://rethinkdb.icopy.site/)"
+!!! tip "[RethinkDB](http://www.rethinkdb.com.s.icopy.site/docs/)"
     面向实时Web的开源数据库
 
 ### 文档数据库
 
-!!! tip "[MongoDB](http://mongodb.icopy.site/)"
+!!! tip "[MongoDB](http://docs.mongodb.com.s.icopy.site/)"
     MongoDB是一个基于分布式文件存储的数据库。由C++语言编写。旨在为WEB应用提供可扩展的高性能数据存储解决方案
 
 !!! tip "[CouchDB](http://docs.couchdb.org.icopy.site/en/stable/)"

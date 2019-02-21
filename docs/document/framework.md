@@ -13,10 +13,10 @@
 
 ### Java web框架
 
-!!! tip "[cuba-platform](http://cuba.icopy.site/manual-latest/)"
+!!! tip "[cuba-platform](http://doc.cuba-platform.com.s.icopy.site/manual-latest/)"
     cuba-platform是一个高度封装的企业快速开发框架,不同于springboot一类的web开发框架,封装了web开发的底层细节,提供企业开发应用中常见服务以及开箱即用的UI页面
 
-!!! tip "[Vert.x](http://vertx.icopy.site/docs/)"
+!!! tip "[Vert.x](http://vertx.io.s.icopy.site/docs/)"
     Vert.x 是jvm上的nodejs, 但提供几倍于nodejs的性能,web性能测试常年排在前位,数倍于springboot等常用web框架
 
 !!! tip "[SpringBoot](http://docs.spring.io.s.icopy.site/spring-boot/docs/current/reference/html/)"
