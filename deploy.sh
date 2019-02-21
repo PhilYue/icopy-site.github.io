@@ -10,7 +10,7 @@ EMAIL=chenjiajia1@gmail.com
 set -e
 
 git remote add gh-token "https://${GH_TOKEN}@github.com/$ORG/$REPO.git";
-git fetch gh-token && git fetch gh-token gh-pages:gh-pages;
+git fetch gh-token && git fetch gh-token master:master;
 
 # Update git configuration so I can push.
 if [ "$1" != "dry" ]; then
