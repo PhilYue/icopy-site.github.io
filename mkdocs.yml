@@ -35,7 +35,7 @@ theme:
   language: 'zh'
   favicon: '_static/img/favicon.ico'
   palette:
-    primary: 'blue'
+    primary: 'indigo'
     accent: 'indigo'
   logo:
     icon: 'g_translate'
@@ -43,7 +43,7 @@ theme:
     text: 'Fira Sans'
     code: 'Fira Mono'
   feature:
-    tabs: true
+    tabs: false
 # Customization
 extra:
   search:
