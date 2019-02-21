@@ -1,0 +1,690 @@
+
+
+
+
+<!doctype html>
+<html lang="zh" class="no-js">
+  <head>
+ <script>base_url='.'</script>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      <meta http-equiv="x-ua-compatible" content="ie=edge">
+      
+        <meta name="description" content="开源文档中文镜像">
+      
+      
+        <link rel="canonical" href="https://icopy-site.github.io/">
+      
+      
+        <meta name="author" content="chenjiajia">
+      
+      
+        <meta name="lang:clipboard.copy" content="复制">
+      
+        <meta name="lang:clipboard.copied" content="已复制">
+      
+        <meta name="lang:search.language" content="jp">
+      
+        <meta name="lang:search.pipeline.stopwords" content="True">
+      
+        <meta name="lang:search.pipeline.trimmer" content="True">
+      
+        <meta name="lang:search.result.none" content="没有找到符合条件的结果">
+      
+        <meta name="lang:search.result.one" content="找到 1 个符合条件的结果">
+      
+        <meta name="lang:search.result.other" content="# 个符合条件的结果">
+      
+        <meta name="lang:search.tokenizer" content="[\uff0c\u3002]+">
+      
+      <link rel="shortcut icon" href=".">
+      <meta name="generator" content="mkdocs-1.0.4, mkdocs-material-4.0.1">
+    
+    
+      
+        <title>构建镜像站 - icopy.site</title>
+      
+    
+    
+      <link rel="stylesheet" href="assets/stylesheets/application.982221ab.css">
+      
+        <link rel="stylesheet" href="assets/stylesheets/application-palette.224b79ff.css">
+      
+      
+        
+        
+        <meta name="theme-color" content="">
+      
+    
+    
+      <script src="assets/javascripts/modernizr.1f0bcf2b.js"></script>
+    
+    
+      
+        <link href="https://gstatic.loli.net" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="https://fonts.loli.net/css?family=Fira+Sans:300,400,400i,700|Fira+Mono">
+        <style>body,input{font-family:"Fira Sans","Helvetica Neue",Helvetica,Arial,sans-serif}code,kbd,pre{font-family:"Fira Mono","Courier New",Courier,monospace}</style>
+      
+    
+    <link rel="stylesheet" href="assets/fonts/material-icons.css">
+    
+    
+      <link rel="stylesheet" href="_static/css/extra.css">
+    
+    
+      
+    
+    
+  </head>
+  
+    
+    
+    <body dir="ltr" data-md-color-primary="white" data-md-color-accent="red">
+  
+    <svg class="md-svg">
+      <defs>
+        
+        
+          <svg xmlns="http://www.w3.org/2000/svg" width="416" height="448"
+    viewBox="0 0 416 448" id="__github">
+  <path fill="currentColor" d="M160 304q0 10-3.125 20.5t-10.75 19-18.125
+        8.5-18.125-8.5-10.75-19-3.125-20.5 3.125-20.5 10.75-19 18.125-8.5
+        18.125 8.5 10.75 19 3.125 20.5zM320 304q0 10-3.125 20.5t-10.75
+        19-18.125 8.5-18.125-8.5-10.75-19-3.125-20.5 3.125-20.5 10.75-19
+        18.125-8.5 18.125 8.5 10.75 19 3.125 20.5zM360
+        304q0-30-17.25-51t-46.75-21q-10.25 0-48.75 5.25-17.75 2.75-39.25
+        2.75t-39.25-2.75q-38-5.25-48.75-5.25-29.5 0-46.75 21t-17.25 51q0 22 8
+        38.375t20.25 25.75 30.5 15 35 7.375 37.25 1.75h42q20.5 0
+        37.25-1.75t35-7.375 30.5-15 20.25-25.75 8-38.375zM416 260q0 51.75-15.25
+        82.75-9.5 19.25-26.375 33.25t-35.25 21.5-42.5 11.875-42.875 5.5-41.75
+        1.125q-19.5 0-35.5-0.75t-36.875-3.125-38.125-7.5-34.25-12.875-30.25-20.25-21.5-28.75q-15.5-30.75-15.5-82.75
+        0-59.25 34-99-6.75-20.5-6.75-42.5 0-29 12.75-54.5 27 0 47.5 9.875t47.25
+        30.875q36.75-8.75 77.25-8.75 37 0 70 8 26.25-20.5
+        46.75-30.25t47.25-9.75q12.75 25.5 12.75 54.5 0 21.75-6.75 42 34 40 34
+        99.5z" />
+</svg>
+        
+      </defs>
+    </svg>
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" data-md-component="overlay" for="__drawer"></label>
+    
+      <a href="#_1" tabindex="1" class="md-skip">
+        跳转至
+      </a>
+    
+    
+      <header class="md-header" data-md-component="header">
+  <nav class="md-header-nav md-grid">
+    <div class="md-flex">
+      <div class="md-flex__cell md-flex__cell--shrink">
+        <a href="https://icopy-site.github.io" title="icopy.site" class="md-header-nav__button md-logo">
+          
+            <i class="md-icon">school</i>
+          
+        </a>
+      </div>
+      <div class="md-flex__cell md-flex__cell--shrink">
+        <label class="md-icon md-icon--menu md-header-nav__button" for="__drawer"></label>
+      </div>
+      <div class="md-flex__cell md-flex__cell--stretch">
+        <div class="md-flex__ellipsis md-header-nav__title" data-md-component="title">
+          
+            <span class="md-header-nav__topic">
+              icopy.site
+            </span>
+            <span class="md-header-nav__topic">
+              构建镜像站
+            </span>
+          
+        </div>
+      </div>
+      <div class="md-flex__cell md-flex__cell--shrink">
+        
+          <label class="md-icon md-icon--search md-header-nav__button" for="__search"></label>
+          
+<div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" placeholder="搜索" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="query" data-md-state="active">
+      <label class="md-icon md-search__icon" for="__search"></label>
+      <button type="reset" class="md-icon md-search__icon" data-md-component="reset" tabindex="-1">
+        &#xE5CD;
+      </button>
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="result">
+          <div class="md-search-result__meta">
+            键入以开始搜索
+          </div>
+          <ol class="md-search-result__list"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+        
+      </div>
+      
+        <div class="md-flex__cell md-flex__cell--shrink">
+          <div class="md-header-nav__source">
+            
+
+
+  
+
+<a href="https://github.com/icopy-site/icopy-site.github.io/" title="前往 Github 仓库" class="md-source" data-md-source="github">
+  
+    <div class="md-source__icon">
+      <svg viewBox="0 0 24 24" width="24" height="24">
+        <use xlink:href="#__github" width="24" height="24"></use>
+      </svg>
+    </div>
+  
+  <div class="md-source__repository">
+    icopy-site/icopy-site.github.io
+  </div>
+</a>
+          </div>
+        </div>
+      
+    </div>
+  </nav>
+</header>
+    
+    <div class="md-container">
+      
+        
+      
+      
+        
+
+  
+
+<nav class="md-tabs md-tabs--active" data-md-component="tabs">
+  <div class="md-tabs__inner md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+    <li class="md-tabs__item">
+      
+        <a href="." title="文档" class="md-tabs__link md-tabs__link--active">
+          文档
+        </a>
+      
+    </li>
+  
+
+      
+        
+  
+  
+    <li class="md-tabs__item">
+      
+        <a href="awesome/readme/" title="AWESOME" class="md-tabs__link">
+          AWESOME
+        </a>
+      
+    </li>
+  
+
+      
+    </ul>
+  </div>
+</nav>
+      
+      <main class="md-main">
+        <div class="md-main__inner md-grid" data-md-component="container">
+          
+            
+              <div class="md-sidebar md-sidebar--primary" data-md-component="navigation">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    <nav class="md-nav md-nav--primary" data-md-level="0">
+  <label class="md-nav__title md-nav__title--site" for="__drawer">
+    <a href="https://icopy-site.github.io" title="icopy.site" class="md-nav__button md-logo">
+      
+        <i class="md-icon">school</i>
+      
+    </a>
+    icopy.site
+  </label>
+  
+    <div class="md-nav__source">
+      
+
+
+  
+
+<a href="https://github.com/icopy-site/icopy-site.github.io/" title="前往 Github 仓库" class="md-source" data-md-source="github">
+  
+    <div class="md-source__icon">
+      <svg viewBox="0 0 24 24" width="24" height="24">
+        <use xlink:href="#__github" width="24" height="24"></use>
+      </svg>
+    </div>
+  
+  <div class="md-source__repository">
+    icopy-site/icopy-site.github.io
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+  
+
+
+  <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-1" type="checkbox" id="nav-1" checked>
+    
+    <label class="md-nav__link" for="nav-1">
+      文档
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+      <label class="md-nav__title" for="nav-1">
+        文档
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+  
+
+
+  <li class="md-nav__item md-nav__item--active">
+    
+    <input class="md-toggle md-nav__toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+    
+    
+      <label class="md-nav__link md-nav__link--active" for="__toc">
+        构建镜像站
+      </label>
+    
+    <a href="." title="构建镜像站" class="md-nav__link md-nav__link--active">
+      构建镜像站
+    </a>
+    
+      
+<nav class="md-nav md-nav--secondary">
+  
+  
+  
+    <label class="md-nav__title" for="__toc">目录</label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#_1" title="提供的服务" class="md-nav__link">
+    提供的服务
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_2" title="镜像服务指南" class="md-nav__link">
+    镜像服务指南
+  </a>
+  
+</li>
+      
+      
+      
+      
+      
+    </ul>
+  
+</nav>
+    
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="document/language/" title="编程语言" class="md-nav__link">
+      编程语言
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="document/framework/" title="框架" class="md-nav__link">
+      框架
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="document/database/" title="数据库" class="md-nav__link">
+      数据库
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="https://docschina.org/" title="印记中文" class="md-nav__link">
+      印记中文
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-2" type="checkbox" id="nav-2">
+    
+    <label class="md-nav__link" for="nav-2">
+      AWESOME
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+      <label class="md-nav__title" for="nav-2">
+        AWESOME
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="awesome/readme/" title="资源列表" class="md-nav__link">
+      资源列表
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="https://asmcn.icopy.site/" title="中文" class="md-nav__link">
+      中文
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="https://asmen.icopy.site/" title="英文" class="md-nav__link">
+      英文
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="toc">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+<nav class="md-nav md-nav--secondary">
+  
+  
+  
+    <label class="md-nav__title" for="__toc">目录</label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#_1" title="提供的服务" class="md-nav__link">
+    提供的服务
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_2" title="镜像服务指南" class="md-nav__link">
+    镜像服务指南
+  </a>
+  
+</li>
+      
+      
+      
+      
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          <div class="md-content">
+            <article class="md-content__inner md-typeset">
+              
+                
+                  <a href="https://github.com/icopy-site/icopy-site.github.io/blob/master/docs/index.md" title="编辑此页" class="md-icon md-content__icon">&#xE3C9;</a>
+                
+                
+                  <h1>构建镜像站</h1>
+                
+                <p><link rel="stylesheet" href="_static/css/main.css">
+<div class="s130">
+    <div class="form">
+        <div class="inner-form">
+            <div class="input-field first-wrap">
+                <div class="svg-wrapper">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                        <path d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"></path>
+                    </svg>
+                </div>
+                <input id="url" type="text" placeholder="英文文档URL"/>
+            </div>
+            <div class="input-field second-wrap">
+                <button class="btn-search" type="button" onclick='go()' >构建</button>
+            </div>
+        </div>
+        <span class="error" id="status"></span>
+        <span class="info">也可以直接在浏览器地址栏URL前加icopy.site/</span>
+    </div>
+</div>
+<script src="https://cdn.bootcss.com/jquery/3.3.1/jquery.min.js"></script>
+<script type="text/javascript">
+    function go() {
+        var url = $("#url").val();
+        if (!url.startsWith("http")) {
+            url = "http://" + url;
+        }
+        var targetUrl = "http://"+"icopy.site/" + url;
+        try {
+            var urlAddress = new URL(url);
+            window.location = targetUrl;
+        } catch (e) {
+            $("#status").text("URL 不合法");
+        }
+    }
+</script></p>
+<p><a href="https://travis-ci.org/chenjiajia/icopy.site"><img alt="Build Status" src="https://travis-ci.org/chenjiajia/icopy.site.svg?branch=master" /></a></p>
+<h2 id="_1">提供的服务<a class="headerlink" href="#_1" title="Permanent link">&para;</a></h2>
+<ul>
+<li><em>本站提供英文文档的中文镜像服务,镜像网站每周定期更新</em></li>
+<li><em>整理汇总各类开发资源</em></li>
+</ul>
+<h2 id="_2">镜像服务指南<a class="headerlink" href="#_2" title="Permanent link">&para;</a></h2>
+<div class="admonition tip">
+<p class="admonition-title">地址栏URL前加icopy.site/</p>
+<div class="admonition example">
+<p class="admonition-title">比如: <a href="https://vertx.io">https://vertx.io</a></p>
+<p>icopy.site/<a href="https://vertx.io">https://vertx.io</a></p>
+</div>
+<div class="admonition example">
+<p class="admonition-title">比如: <a href="http://www.typescriptlang.org/docs/home.html">www.typescriptlang.org/docs/home.html</a></p>
+<p>icopy.site/<a href="http://www.typescriptlang.org/docs/home.html">www.typescriptlang.org/docs/home.html</a></p>
+</div>
+</div>
+<div class="admonition warning">
+<p class="admonition-title">只支持静态文档网站的镜像</p>
+<p>网站域名或者网页路径中需要包含以下关键词:doc,guide,tutorial,manual,dev</p>
+<div class="admonition info">
+<p class="admonition-title">对于不满足以上条件的文档</p>
+<p>需要映射网站别名,请在github提issue</p>
+</div>
+</div>
+<div class="admonition warning">
+<p class="admonition-title">镜像网站每周更新</p>
+<p>内容最多比源站落后7天        </p>
+</div>
+<p><strong>本文档采用 <a href="https://github.com/mkdocs/mkdocs">mkdocs</a> 构建</strong></p>
+                
+                  
+                
+              
+              
+                <!-- Set from config but allow override -->
+   
+
+<hr>
+<blockquote class="page-copyright">
+    <p>本页面的全部内容在 <strong>CC BY-NC-SA 4.0</strong> 协议之条款下提供，附加条款亦可能应用。</p>
+</blockquote>
+<!-- Comments Integration -->
+
+              
+            </article>
+          </div>
+        </div>
+      </main>
+      
+        
+<footer class="md-footer">
+  
+    <div class="md-footer-nav">
+      <nav class="md-footer-nav__inner md-grid">
+        
+        
+          <a href="document/language/" title="编程语言" class="md-flex md-footer-nav__link md-footer-nav__link--next" rel="next">
+            <div class="md-flex__cell md-flex__cell--stretch md-footer-nav__title">
+              <span class="md-flex__ellipsis">
+                <span class="md-footer-nav__direction">
+                  前进
+                </span>
+                编程语言
+              </span>
+            </div>
+            <div class="md-flex__cell md-flex__cell--shrink">
+              <i class="md-icon md-icon--arrow-forward md-footer-nav__button"></i>
+            </div>
+          </a>
+        
+      </nav>
+    </div>
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-footer-copyright">
+        
+          <div class="md-footer-copyright__highlight">
+            Copyright &copy; 2016 - 2019
+          </div>
+        
+        powered by
+        <a href="https://www.mkdocs.org">MkDocs</a>
+        and
+        <a href="https://squidfunk.github.io/mkdocs-material/">
+          Material for MkDocs</a>
+      </div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    
+      <script src="assets/javascripts/application.43ad2ac2.js"></script>
+      
+        
+        
+          
+          <script src="assets/javascripts/lunr/lunr.stemmer.support.js"></script>
+          
+            
+              
+                <script src="assets/javascripts/lunr/tinyseg.js"></script>
+              
+              
+                <script src="assets/javascripts/lunr/lunr.jp.js"></script>
+              
+            
+          
+          
+        
+      
+      <script>app.initialize({version:"1.0.4",url:{base:"."}})</script>
+      
+        <script src="https://cdnjs.loli.net/ajax/libs/pangu/3.3.0/pangu.min.js"></script>
+      
+        <script src="_static/js/extra.js"></script>
+      
+        <script src="https://cdn.staticfile.org/jquery/3.3.1/jquery.min.js"></script>
+      
+        <script src="https://cdn.staticfile.org/github-repo-widget/e23d85ab8f/jquery.githubRepoWidget.min.js"></script>
+      
+        <script src="https://cdnjs.loli.net/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+      
+        <script src="http://tajs.qq.com/stats?sId=65686228"></script>
+      
+        <script src="search/main.js"></script>
+      
+    
+  </body>
+</html>
