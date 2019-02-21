@@ -19,4 +19,4 @@ if [ "$1" != "dry" ]; then
     git config user.email "$EMAIL"
 fi
 
-mkdocs gh-deploy -v --clean --force --remote-name gh-token;
+mkdocs gh-deploy -v --clean --force --remote-name gh-token  --remote-branch master;
