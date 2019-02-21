@@ -38,7 +38,7 @@ theme:
     primary: 'blue'
     accent: 'indigo'
   logo:
-    icon: '_static/img/logo.png'
+    icon: 'g_translate'
   font:
     text: 'Fira Sans'
     code: 'Fira Mono'
@@ -56,7 +56,7 @@ extra_javascript:
   - 'https://cdn.staticfile.org/jquery/3.3.1/jquery.min.js'
   - 'https://cdn.staticfile.org/github-repo-widget/e23d85ab8f/jquery.githubRepoWidget.min.js'
   - 'https://cdnjs.loli.net/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML'
-  - 'http://tajs.qq.com/stats?sId=65686228'
+  - '//tajs.qq.com/stats?sId=65686228'
 
 extra_css:
   - '_static/css/extra.css'
