@@ -46,7 +46,7 @@ theme:
 # Customization
 extra:
   search:
-    language: 'jp'
+    language: 'en,jp'
   copyright: 'CC BY-NC-SA 4.0'
 
 extra_javascript:
