@@ -24,8 +24,20 @@
 
 ### Python web框架
 
-### Go web框架
+!!! tip "[Django](https://docs.djangoproject.com/zh-hans/)"
+    Django是一个开放源代码的Web应用框架，由Python写成
+
 
 ## 前端框架
 
+### 前端三大UI框架
+
+!!! tip "[ReactJS](http://reactjs.org.s.icopy.site/docs/)"
+    React（有时叫React.js或ReactJS）是一个为数据提供渲染为HTML视图的开源JavaScript库
+
+!!! tip "[Angular](http://angular.io.s.icopy.site/docs)"
+    Angular是一款由Google维护的开源JavaScript库，用来协助单一页面应用程序运行
+
+!!! tip "[Vue](https://cn.vuejs.org/index.html)"
+    Vue.js（/vjuː/，或简称为Vue）是一个用于创建用户界面的开源JavaScript框架，也是一个创建单页面应用的Web应用框架
 

@@ -28,46 +28,55 @@
 * https://docs.influxdata.com
 * https://redis.io
 
-### 其他
+### 前端
 
-* https://swagger.io
-* https://rancher.com
-* https://docs.docker.com
-* https://doc.cuba-platform.com
+* https://angular.io
+* https://angularjs.org
+* https://reactjs.org
 * https://webdev.dartlang.org
-* https://laravel.com
 * https://ionicframework.com
-* https://facebook.github.io
-* https://docs.scrapy.org
-* https://gohugo.io
-* https://docs.fastlane.tools
 * https://www.gatsbyjs.org
 * https://koajs.com
 * http://docs.videojs.com
 * https://sailsjs.com
 * https://guides.emberjs.com
 * https://mermaidjs.github.io
+* https://mochajs.org
+
+### 运维
+
+* https://rancher.com
+* https://docs.docker.com
+* https://prometheus.io
+* https://docs.openstack.org
+* https://docs.gradle.org
+* https://gradle.org
+
+### 其他
+
+* https://swagger.io
+* https://doc.cuba-platform.com
+* https://laravel.com
+* https://facebook.github.io
+* https://docs.scrapy.org
+* https://gohugo.io
+* https://docs.fastlane.tools
 * https://symfony.com
 * http://spark.apache.org
 * https://caddyserver.com
-* https://prometheus.io
 * https://docs.npmjs.com
 * https://cheerio.js.org
 * http://www.tornadoweb.org
 * http://dokku.viewdocs.io
-* https://mochajs.org
 * https://docs.traefik.io
 * http://docs.parseplatform.org
 * https://getcomposer.org
 * http://pandas.pydata.org
 * http://netty.io
-* https://docs.openstack.org
 * http://tomcat.apache.org
 * http://nginx.org
 * https://www.playframework.com
 * https://doc.akka.io
-* https://docs.gradle.org
-* https://gradle.org
 * http://reactivex.io
 * http://www.parallec.io
 * https://developer.apple.com

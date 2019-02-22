@@ -14,17 +14,17 @@ copyright: 'Copyright &copy; 2016 - 2019'
 
 # Contents
 nav:
-  - 文档:
-    - 构建镜像站: index.md
-    - 白名单: document/whitelist.md
+  - 构建镜像站: index.md
+  - 镜像白名单: document/whitelist.md
+  - 文档分类:
     - 编程语言: document/language.md
     - 框架: document/framework.md
     - 数据库: document/database.md
     - 印记中文: https://docschina.org/
   - AWESOME:
-    - 资源列表: awesome/readme.md
-    - 中文: https://asmcn.icopy.site/
-    - 英文: https://asmen.icopy.site/
+    - 索引说明: awesome/readme.md
+    - 中文索引: https://asmcn.icopy.site/
+    - 英文索引: https://asmen.icopy.site/
 
 
 # Theme
@@ -49,7 +49,6 @@ theme:
 extra:
   search:
     language: 'en,jp'
-  copyright: 'CC BY-NC-SA 4.0'
 
 extra_javascript:
   - 'https://cdnjs.loli.net/ajax/libs/pangu/3.3.0/pangu.min.js'
