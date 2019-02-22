@@ -61,3 +61,4 @@
 * http://www.typescriptlang.org
 * https://www.haskell.org
 * https://elixir-lang.org
+* http://logo.clearbit.com
