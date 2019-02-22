@@ -1,24 +1,47 @@
 ## 白名单
 
-* https://www.dartlang.org/
-* https://www.scala-lang.org/
-* https://flutter.io
-* https://vertx.io
+### 编程语言
+
+* https://www.dartlang.org
+* https://www.scala-lang.org
+* https://elixir-lang.org
+* https://docs.python.org
+* https://www.lua.org
+* https://docs.scala-lang.org
+* http://www.typescriptlang.org
+* https://www.haskell.org
+* http://logo.clearbit.com
+* https://julialang.org
+* https://docs.julialang.org
+* https://cran.r-project.org
+* http://groovy-lang.org
+* https://clojure.org
+* https://kotlinlang.org
+
+### 数据库
+
+* https://www.elastic.co
+* http://docs.grafana.org
+* https://rethinkdb.com
+* https://docs.mongodb.com
+* https://www.cockroachlabs.com
+* https://docs.influxdata.com
+* https://redis.io
+
+### 其他
+
+* https://swagger.io
 * https://rancher.com
 * https://docs.docker.com
-* https://www.dartlang.org
 * https://doc.cuba-platform.com
 * https://webdev.dartlang.org
 * https://laravel.com
 * https://ionicframework.com
-* https://www.elastic.co
 * https://facebook.github.io
 * https://docs.scrapy.org
 * https://gohugo.io
 * https://docs.fastlane.tools
-* http://docs.grafana.org
 * https://www.gatsbyjs.org
-* https://rethinkdb.com
 * https://koajs.com
 * http://docs.videojs.com
 * https://sailsjs.com
@@ -38,16 +61,6 @@
 * https://getcomposer.org
 * http://pandas.pydata.org
 * http://netty.io
-* https://docs.mongodb.com
-* https://www.cockroachlabs.com
-* https://docs.influxdata.com
-* https://elixir-lang.org
-* https://swagger.io
-* https://docs.python.org
-* https://www.lua.org
-* https://docs.scala-lang.org
-* https://docs.julialang.org
-* https://redis.io
 * https://docs.openstack.org
 * http://tomcat.apache.org
 * http://nginx.org
@@ -58,7 +71,4 @@
 * http://reactivex.io
 * http://www.parallec.io
 * https://developer.apple.com
-* http://www.typescriptlang.org
-* https://www.haskell.org
-* https://elixir-lang.org
-* http://logo.clearbit.com
+
