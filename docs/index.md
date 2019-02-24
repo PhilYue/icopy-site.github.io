@@ -57,7 +57,7 @@
     网站域名或者网页路径中需要包含以下关键词:doc,guide,tutorial,manual,dev
     
     !!! info "对于不满足以上条件的文档"
-        需要映射网站别名,请在github提issue
+        需要添加白名单,请在github提issue
         
 !!! warning "镜像网站每周更新"
     内容最多比源站落后7天        
