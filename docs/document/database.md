@@ -10,26 +10,26 @@
 
 ### 实时数据库
 
-!!! tip "[RethinkDB](http://www.rethinkdb.com.s.icopy.site/docs/)"
+!!! tip "[RethinkDB](https://www.rethinkdb.com/docs/)"
     面向实时Web的开源数据库
 
 ### 文档数据库
 
-!!! tip "[MongoDB](http://docs.mongodb.com.s.icopy.site/)"
+!!! tip "[MongoDB](https://docs.mongodb.com/)"
     MongoDB是一个基于分布式文件存储的数据库。由C++语言编写。旨在为WEB应用提供可扩展的高性能数据存储解决方案
 
-!!! tip "[CouchDB](http://docs.couchdb.org.icopy.site/en/stable/)"
+!!! tip "[CouchDB](https://docs.couchdb.org.icopy.site/en/stable/)"
     Apache CouchDB是一个开源数据库，专注于易用性和成为"完全拥抱web的数据库"。
     它是一个使用JSON作为存储格式，JavaScript作为查询语言，MapReduce和HTTP作为API的NoSQL数据库。其中一个显著的功能就是多主复制
 
 ### 关系型数据库
 
-!!! tip "[Postgresql](http://www.postgresql.org.s.icopy.site/docs/)"
+!!! tip "[Postgresql](https://www.postgresql.org/docs/)"
     PostgreSQL 是一个免费的对象-关系数据库服务器(数据库管理系统)，它在灵活的 BSD-风格许可证下发行。
     它提供了相对其他开放源代码数据库系统(比如 MySQL 和 Firebird)，和专有系统(比如 Oracle、Sybase、IBM 的 DB2 和 Microsoft SQL Server)之外的另一种选择
 
 ### 键值数据库
 
-!!! tip "[Redis](http://redis.io.s.icopy.site/documentation)"
+!!! tip "[Redis](https://redis.io/documentation)"
     Redis是一个开源的使用ANSI C语言编写、支持网络、可基于内存亦可持久化的日志型、Key-Value数据库，并提供多种语言的API
 
