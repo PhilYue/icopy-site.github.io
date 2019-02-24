@@ -51,6 +51,8 @@
     !!! example "比如: www.typescriptlang.org/docs/home.html"
         icopy.site/www.typescriptlang.org/docs/home.html
 
+## 服务限制
+
 !!! warning "只支持静态文档网站的镜像"
     网站域名或者网页路径中需要包含以下关键词:doc,guide,tutorial,manual,dev
     
