@@ -80,4 +80,6 @@
 * http://reactivex.io
 * http://www.parallec.io
 * https://developer.apple.com
+* https://www.mql5.com
+* https://ctrader.com
 
