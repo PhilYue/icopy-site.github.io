@@ -80,4 +80,5 @@
 * http://reactivex.io
 * http://www.parallec.io
 * https://developer.apple.com
+* http://spoon.gforge.inria.fr
 
