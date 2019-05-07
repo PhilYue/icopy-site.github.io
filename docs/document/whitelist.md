@@ -10,7 +10,6 @@
 * https://docs.scala-lang.org
 * http://www.typescriptlang.org
 * https://www.haskell.org
-* http://logo.clearbit.com
 * https://julialang.org
 * https://docs.julialang.org
 * https://cran.r-project.org
@@ -81,4 +80,5 @@
 * http://www.parallec.io
 * https://developer.apple.com
 * http://spoon.gforge.inria.fr
+* http://logo.clearbit.com
 

@@ -1,4 +1,5 @@
 <link rel="stylesheet" href="_static/css/main.css">
+## 英文文档中文镜像站服务
 <div class="s130">
     <div class="form">
         <div class="inner-form">
@@ -25,7 +26,7 @@
         if (!url.startsWith("http")) {
             url = "http://" + url;
         }
-        var targetUrl = "http://"+"icopy.site/" + url;
+        var targetUrl = "https://"+"icopy.site/" + url;
         try {
             var urlAddress = new URL(url);
             window.location = targetUrl;
