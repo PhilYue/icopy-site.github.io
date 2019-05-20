@@ -16,6 +16,9 @@
 * http://groovy-lang.org
 * https://clojure.org
 * https://kotlinlang.org
+* https://swift.org
+* https://fsharp.org
+* https://www.haskell.org
 
 ### 数据库
 

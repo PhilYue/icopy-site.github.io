@@ -33,6 +33,7 @@
 
 !!! tip "[PHP](https://php.net/manual/zh/)"
     PHP（外文名:PHP: Hypertext Preprocessor，中文名：“超文本预处理器”）是一种通用开源脚本语言
+    
 
 
 ### 通用领域语言 
@@ -48,3 +49,21 @@
     
 !!! tip "[Rust](https://icopy.site/https://doc.rust-lang.org/)"
     Rust是一个由Mozilla主导开发的通用、编译型编程语言。它的设计准则为“安全，并发，实用”，支持函数式，并发式，过程式以及面向对象的编程风格
+
+!!! tip "[Swift](https://icopy.site/https://swift.org/)"
+    Swift是一种使用现代方法构建安全性，性能和软件设计模式构建的通用编程语言。     
+
+### 函数式编程语言
+
+!!! tip "[F#](https://icopy.site/https://fsharp.org/)"
+    F＃是一种成熟的，开源的，跨平台的，函数优先的编程语言
+    
+!!! tip "[Haskell](https://icopy.site/https://www.haskell.org/)"
+    一种高级，纯函数式编程语言
+
+### 科学计算
+
+!!! tip "[Julia](https://icopy.site/https://docs.julialang.org/)"
+    Julia是一个高层次的通用动态编程语言设计的高性能的数值分析与计算科学。
+
+
