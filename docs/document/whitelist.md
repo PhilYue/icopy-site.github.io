@@ -88,4 +88,5 @@
 * http://spoon.gforge.inria.fr
 * http://logo.clearbit.com
 * https://pytorch.org
+* https://graphql.org
 

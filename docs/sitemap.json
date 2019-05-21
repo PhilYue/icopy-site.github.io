@@ -48,10 +48,54 @@
     ]
   },
   {
+    "site": "https://laravel.com",
+    "pattern": "https://laravel\\.com/docs/.*",
+    "urls": [
+      "https://laravel.com/docs/5.8/"
+    ]
+  },
+  {
+    "site": "https://graphql.org",
+    "pattern": "https://graphql\\.org/.*",
+    "urls": [
+      "https://graphql.org/learn/"
+    ]
+  },
+  {
+    "site": "https://www.postgresql.org",
+    "pattern": "https://www\\.postgresql\\.org/docs/.*",
+    "urls": [
+      "https://www.postgresql.org/docs/11/"
+    ]
+  },
+  {
     "site": "http://spark.apache.org",
     "pattern": "http://spark\\.apache\\.org/.*",
     "urls": [
       "http://spark.apache.org/docs/latest/"
+    ]
+  },
+  {
+    "site": "https://flutter.dev",
+    "pattern": "https://flutter\\.dev/docs/.*",
+    "urls": [
+      "https://flutter.dev/docs/"
+    ]
+  },
+  {
+    "site": "https://docs.swift.org",
+    "pattern": "https://docs\\.swift\\.org/.*",
+    "urls": [
+      "https://docs.swift.org/swift-book/",
+      "https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html",
+      "https://docs.swift.org/swift-book/ReferenceManual/AboutTheLanguageReference.html"
+    ]
+  },
+  {
+    "site": "https://dart.dev",
+    "pattern": "https://dart\\.dev/.*",
+    "urls": [
+      "https://dart.dev/guides"
     ]
   },
   {
