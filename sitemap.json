@@ -41,6 +41,32 @@
     ]
   },
   {
+    "site": "https://docs.gradle.org",
+    "pattern": "https://docs\\.gradle\\.org/.*",
+    "urls": [
+      "https://docs.gradle.org/current/userguide/userguide.html"
+    ]
+  },
+  {
+    "site": "http://spark.apache.org",
+    "pattern": "http://spark\\.apache\\.org/.*",
+    "urls": [
+      "http://spark.apache.org/docs/latest/"
+    ]
+  },
+  {
+    "site": "https://doc.cuba-platform.com",
+    "pattern": "https://doc\\.cuba-platform\\.com/.*",
+    "urls": [
+      "https://doc.cuba-platform.com/manual-latest/",
+      "https://doc.cuba-platform.com/charts-7.0/",
+      "https://doc.cuba-platform.com/studio/",
+      "https://doc.cuba-platform.com/reporting-7.0/",
+      "https://doc.cuba-platform.com/fts-7.0/",
+      "https://doc.cuba-platform.com/bpm-7.0/"
+    ]
+  },
+  {
     "site": "https://doc.rust-lang.org",
     "pattern": "https://doc\\.rust-lang\\.org/.*",
     "urls": [
