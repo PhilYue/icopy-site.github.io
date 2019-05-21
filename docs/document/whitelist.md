@@ -87,4 +87,5 @@
 * https://developer.apple.com
 * http://spoon.gforge.inria.fr
 * http://logo.clearbit.com
+* https://pytorch.org
 
