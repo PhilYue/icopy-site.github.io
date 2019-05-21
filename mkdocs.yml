@@ -2,7 +2,7 @@
 site_name: icopy.site
 site_description: 开源文档中文镜像
 site_author: chenjiajia
-site_url: https://icopy-site.github.io
+site_url: https://icopy.site
 
 # Repository
 repo_name: 'icopy-site/icopy-site.github.io'
