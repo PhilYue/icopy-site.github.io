@@ -28,6 +28,7 @@
     Django是一个开放源代码的Web应用框架，由Python写成
 
 
+
 ## 前端框架
 
 ### 前端三大UI框架
@@ -41,3 +42,7 @@
 !!! tip "[Vue](https://cn.vuejs.org/index.html)"
     Vue.js（/vjuː/，或简称为Vue）是一个用于创建用户界面的开源JavaScript框架，也是一个创建单页面应用的Web应用框架
 
+### 服务器渲染
+
+!!! tip "[NEXT.js](https://s0nextjs0org.icopy.site/docs)"
+    Next.js 是一个轻量级的 React 服务端渲染应用框架
