@@ -31,6 +31,9 @@
 * https://www.cockroachlabs.com
 * https://docs.influxdata.com
 * https://redis.io
+* http://hbase.apache.org
+* https://sqlite.org
+* https://pouchdb.com
 
 ### 前端
 

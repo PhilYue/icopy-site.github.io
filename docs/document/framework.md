@@ -13,18 +13,18 @@
 
 ### Java web框架
 
-!!! tip "[cuba-platform](https://icopy.site/https://doc.cuba-platform.com/manual-latest/)"
+!!! tip "[cuba-platform](https://s0doc0cuba-platform0com.icopy.site/manual-latest/)"
     cuba-platform是一个高度封装的企业快速开发框架,不同于springboot一类的web开发框架,封装了web开发的底层细节,提供企业开发应用中常见服务以及开箱即用的UI页面
 
-!!! tip "[Vert.x](https://icopy.site/https://vertx.io/docs/)"
+!!! tip "[Vert.x](https://s0vertx0io.icopy.site/docs/)"
     Vert.x 是jvm上的nodejs, 但提供几倍于nodejs的性能,web性能测试常年排在前位,数倍于springboot等常用web框架
 
-!!! tip "[SpringBoot](https://icopy.site/https://docs.spring.io/spring-boot/docs/current/reference/html/)"
+!!! tip "[SpringBoot](https://s0docs0spring0io.icopy.site/spring-boot/docs/current/reference/html/)"
     Spring Boot是由Pivotal团队提供的全新框架，其设计目的是用来简化新Spring应用的初始搭建以及开发过程
 
 ### Python web框架
 
-!!! tip "[Django](https://icopy.site/https://docs.djangoproject.com/zh-hans/)"
+!!! tip "[Django](https://docs.djangoproject.com/zh-hans/)"
     Django是一个开放源代码的Web应用框架，由Python写成
 
 
@@ -32,10 +32,10 @@
 
 ### 前端三大UI框架
 
-!!! tip "[ReactJS](https://icopy.site/https://reactjs.org/docs/)"
+!!! tip "[ReactJS](https://s0reactjs0org.icopy.site/docs/getting-started.html)"
     React（有时叫React.js或ReactJS）是一个为数据提供渲染为HTML视图的开源JavaScript库
 
-!!! tip "[Angular](https://icopy.site/https://angular.io/docs)"
+!!! tip "[Angular](https://s0angular0io.icopy.site/docs)"
     Angular是一款由Google维护的开源JavaScript库，用来协助单一页面应用程序运行
 
 !!! tip "[Vue](https://cn.vuejs.org/index.html)"
