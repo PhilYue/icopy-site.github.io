@@ -38,6 +38,6 @@
 !!! tip "[Angular](https://icopy.site/https://angular.io/docs)"
     Angular是一款由Google维护的开源JavaScript库，用来协助单一页面应用程序运行
 
-!!! tip "[Vue](https://icopy.site/https://cn.vuejs.org/index.html)"
+!!! tip "[Vue](https://cn.vuejs.org/index.html)"
     Vue.js（/vjuː/，或简称为Vue）是一个用于创建用户界面的开源JavaScript框架，也是一个创建单页面应用的Web应用框架
 

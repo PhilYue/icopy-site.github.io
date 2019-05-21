@@ -19,6 +19,8 @@
 * https://swift.org
 * https://fsharp.org
 * https://www.haskell.org
+* https://dart.dev
+* https://golang.org
 
 ### 数据库
 
@@ -53,6 +55,7 @@
 * https://docs.openstack.org
 * https://docs.gradle.org
 * https://gradle.org
+* https://kubernetes.io
 
 ### 其他
 

@@ -1,0 +1,50 @@
+[
+  {
+    "site": "https://docs.mongodb.com",
+    "pattern": "https://docs\\.mongodb\\.com/.*",
+    "urls": [
+      "https://docs.mongodb.com/manual/",
+      "https://docs.mongodb.com/ecosystem/drivers/",
+      "https://docs.mongodb.com/cloud/",
+      "https://docs.mongodb.com/tools/",
+      "https://docs.mongodb.com/guides/"
+    ]
+  },
+  {
+    "site": "https://docs.julialang.org",
+    "pattern": "https://docs\\.julialang\\.org/.*",
+    "urls": [
+      "https://docs.julialang.org/en/v1/"
+    ]
+  },
+  {
+    "site": "https://docs.docker.com",
+    "pattern": "https://docs\\.docker\\.com/.*",
+    "urls": [
+      "https://docs.docker.com/get-started/",
+      "https://docs.docker.com/reference/",
+      "https://docs.docker.com/ee/"
+    ]
+  },
+  {
+    "site": "https://pytorch.org",
+    "pattern": "https://pytorch\\.org/docs/.*",
+    "urls": [
+      "https://pytorch.org/docs/stable/index.html"
+    ]
+  },
+  {
+    "site": "https://docs.scala-lang.org",
+    "pattern": "https://docs\\.scala-lang\\.org/.*",
+    "urls": [
+      "https://docs.scala-lang.org/"
+    ]
+  },
+  {
+    "site": "https://doc.rust-lang.org",
+    "pattern": "https://doc\\.rust-lang\\.org/.*",
+    "urls": [
+      "https://doc.rust-lang.org/book/"
+    ]
+  }
+]
