@@ -1,5 +1,7 @@
 <link rel="stylesheet" href="_static/css/main.css">
-## 输入英文文档url立即构建
+
+## 如何使用
+### 输入英文文档url立即构建镜像
 <div class="s130">
     <div class="form">
         <div class="inner-form">
@@ -35,7 +37,7 @@
     }
 </script>
 
-## 直接在浏览器地址栏URL前加icopy.site/
+### 直接在浏览器地址栏URL前加icopy.site/开始构建
 ![直接在浏览器地址栏URL前加icopy.site/](/_static/img/barImg.jpg)
 
 [![Build Status](https://travis-ci.org/icopy-site/icopy-site.github.io.svg?branch=develop)](https://travis-ci.org/icopy-site/icopy-site.github.io)
