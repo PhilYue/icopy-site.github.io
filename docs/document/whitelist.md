@@ -92,4 +92,6 @@
 * http://logo.clearbit.com
 * https://pytorch.org
 * https://graphql.org
+* https://keystonejs.com
+* http://www.ninjaframework.org
 

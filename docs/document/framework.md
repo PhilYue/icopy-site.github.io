@@ -22,6 +22,12 @@
 !!! tip "[SpringBoot](https://s0docs0spring0io.icopy.site/spring-boot/docs/current/reference/html/)"
     Spring Boot是由Pivotal团队提供的全新框架，其设计目的是用来简化新Spring应用的初始搭建以及开发过程
 
+!!! tip "[Playframework](https://s0www0playframework0com.icopy.site/documentation/2.7.x/Home)"
+    Play Framework使用Java和Scala轻松构建Web应用程序
+    
+!!! tip "[Ninjaframework](http://www0ninjaframework0org.icopy.site/documentation/getting_started/installing_ninja.html)"
+    Ninja是Java的完整堆栈Web框架。 稳定，快速，高效的交付工作, Ninja确保技术不会成为阻碍者，而是成为你下一个项目的推动者
+
 ### Python web框架
 
 !!! tip "[Django](https://docs.djangoproject.com/zh-hans/)"
