@@ -37,8 +37,9 @@
     }
 </script>
 
-### 直接在浏览器地址栏URL前加icopy.site/开始构建
-![直接在浏览器地址栏URL前加icopy.site/](/_static/img/barImg.jpg)
+### 地址栏URL前加icopy.site/
+
+ <img src="/_static/img/barImg.jpg" style="width:100%;border-radius:10px;box-shadow: 0 8px 17px 0 rgba(0,0,0,.2),0 6px 20px 0 rgba(0,0,0,.19)">
 
 [![Build Status](https://travis-ci.org/icopy-site/icopy-site.github.io.svg?branch=develop)](https://travis-ci.org/icopy-site/icopy-site.github.io)
 
