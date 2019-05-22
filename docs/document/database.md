@@ -33,7 +33,7 @@
 !!! tip "[Redis](https://s0redis0io.icopy.site/documentation)"
     Redis是一个开源的使用ANSI C语言编写、支持网络、可基于内存亦可持久化的日志型、Key-Value数据库，并提供多种语言的API
     
-### 全文索引数据库 https://s0www0elastic0co.icopy.site/guide
+### 全文索引数据库 
 
 !!! tip "[ElasticSearch](https://s0www0elastic0co.icopy.site/guide)"
     ElasticSearch是一个基于Lucene的搜索服务器。它提供了一个分布式多用户能力的全文搜索引擎

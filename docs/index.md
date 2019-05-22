@@ -1,5 +1,5 @@
 <link rel="stylesheet" href="_static/css/main.css">
-## 英文文档中文镜像站服务
+## 输入英文文档url立即构建
 <div class="s130">
     <div class="form">
         <div class="inner-form">
@@ -16,7 +16,8 @@
             </div>
         </div>
         <span class="error" id="status"></span>
-        <span class="info">也可以直接在浏览器地址栏URL前加icopy.site/</span>
+        <span >也可以直接在浏览器地址栏URL前加icopy.site/</span>
+        <img src="/_static/img/barImg.jpg" style="width:100%;"/>
     </div>
 </div>
 <script src="https://cdn.bootcss.com/jquery/3.3.1/jquery.min.js"></script>
@@ -40,31 +41,26 @@
 
 ## 提供的服务
 * *本站提供英文文档的中文镜像服务,镜像网站每周定期更新*
-* *整理汇总各类开发资源*
-
-## 镜像服务指南
-
-!!! tip "地址栏URL前加icopy.site/"
-    
-    !!! example "比如: https://vertx.io"
-        icopy.site/https://vertx.io
-    
-    !!! example "比如: www.typescriptlang.org/docs/home.html"
-        icopy.site/www.typescriptlang.org/docs/home.html
+* *整理汇总各类文档资源*
 
 ## 服务限制
 
-!!! warning "只支持静态文档网站的镜像"
-    网站域名或者网页路径中需要包含以下关键词:doc,guide,tutorial,manual,dev
+!!! warning "为防止滥用,只支持静态文档网站的镜像"
+    网站域名或者网页路径中需要包含以下关键词:doc,guide,tutorial,manual,dev关键词
     
     !!! info "对于不满足以上条件的文档"
         需要添加白名单,请在github提issue
         
 !!! warning "镜像网站每周更新"
-    内容最多比源站落后7天        
+    内容最多比源站落后7天,网站定时检查,清理缓存超过7天的网页        
 
+## 内容优化
 
-    
+!!! info "替换源站无法访问的静态资源"
+
+!!! info "代码片段不会翻译"
+
+!!! info "翻译内容鼠标滑过会显示英文原文"
 
  **本文档采用 [mkdocs](https://github.com/mkdocs/mkdocs) 构建**
 
