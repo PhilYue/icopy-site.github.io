@@ -16,8 +16,6 @@
             </div>
         </div>
         <span class="error" id="status"></span>
-        <span >也可以直接在浏览器地址栏URL前加icopy.site/</span>
-        <img src="/_static/img/barImg.jpg" style="width:100%;"/>
     </div>
 </div>
 <script src="https://cdn.bootcss.com/jquery/3.3.1/jquery.min.js"></script>
@@ -36,6 +34,9 @@
         }
     }
 </script>
+
+## 直接在浏览器地址栏URL前加icopy.site/
+![直接在浏览器地址栏URL前加icopy.site/](/_static/img/barImg.jpg)
 
 [![Build Status](https://travis-ci.org/icopy-site/icopy-site.github.io.svg?branch=develop)](https://travis-ci.org/icopy-site/icopy-site.github.io)
 
