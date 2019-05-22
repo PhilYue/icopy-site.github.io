@@ -15,16 +15,16 @@ copyright: 'Copyright &copy; 2016 - 2019'
 # Contents
 nav:
   - 开源文档中文镜像服务: index.md
-  - 镜像白名单: document/whitelist.md
   - 编程语言中文文档: document/language.md
   - 热门框架中文文档: document/framework.md
   - 数据库中文文档: document/database.md
   - 其他热门项目中文文档: document/other.md
-  - 印记中文: https://docschina.org/
   - 开源项目索引列表:
     - 索引说明: awesome/readme.md
     - 开源项目中文索引: https://asmcn.icopy.site/
     - 开源项目英文索引: https://asmen.icopy.site/
+  - 镜像白名单: document/whitelist.md
+  - 印记中文: https://docschina.org/
 
 
 # Theme
