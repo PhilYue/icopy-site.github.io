@@ -52,3 +52,11 @@
 
 !!! tip "[NEXT.js](https://s0nextjs0org.icopy.site/docs)"
     Next.js 是一个轻量级的 React 服务端渲染应用框架
+    
+### 爬虫框架
+
+!!! tip "[Scapy](https://s0scapy0readthedocs0io.icopy.site/en/latest/installation.html)"
+    Scapy是一个Python程序，使用户能够发送，嗅探和剖析并伪造网络数据包. 此功能允许构建可以探测，扫描或攻击网络的工具.
+
+!!! tip "[Apify SDK](https://s0sdk0apify0com.icopy.site/docs/api/apify)"
+    适用于JavaScript的可伸缩Web爬行和抓取库。 通过headless Chrome和Puppeteer实现数据提取和Web自动化作业。

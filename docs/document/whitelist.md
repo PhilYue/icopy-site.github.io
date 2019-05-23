@@ -34,6 +34,8 @@
 * http://hbase.apache.org
 * https://sqlite.org
 * https://pouchdb.com
+* http://www.liquibase.org
+
 
 ### 前端
 
@@ -49,6 +51,7 @@
 * https://guides.emberjs.com
 * https://mermaidjs.github.io
 * https://mochajs.org
+* https://webpack.js.org
 
 ### 运维
 
@@ -94,4 +97,5 @@
 * https://graphql.org
 * https://keystonejs.com
 * http://www.ninjaframework.org
+* https://www.ethereum.org
 

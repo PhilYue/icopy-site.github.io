@@ -42,3 +42,8 @@
 
 !!! tip "[pouchdb](https://s0pouchdb0com.icopy.site/guides/)"
     PouchDB是CouchDB的JavaScript实现. 它的目标是在浏览器或Node.js中运行时，以近乎完美的保真度模拟CouchDB API.
+
+### 多范式数据库
+
+!!! tip "[orientdb](https://s0orientdb0com.icopy.site/docs/last/index.html)"
+    第一个多模型数据库。 最快的图形数据库。 这是OrientDB
