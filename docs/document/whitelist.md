@@ -99,4 +99,5 @@
 * http://www.ninjaframework.org
 * https://www.ethereum.org
 * http://atlas.apache.org
+* https://keras.io
 
