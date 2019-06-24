@@ -116,5 +116,12 @@
     "urls": [
       "https://doc.rust-lang.org/book/"
     ]
+  },
+  {
+    "site": "https://developers.libra.org",
+    "pattern": "https://developers\\.libra\\.org/.*",
+    "urls": [
+      "https://developers.libra.org/docs/welcome-to-libra"
+    ]
   }
 ]
