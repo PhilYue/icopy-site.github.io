@@ -123,5 +123,24 @@
     "urls": [
       "https://developers.libra.org/docs/welcome-to-libra"
     ]
+  },
+  {
+    "site": "https://grafana.com",
+    "pattern": "https://grafana\\.com/.*",
+    "urls": [
+      "https://grafana.com/docs/",
+      "https://grafana.com/docs/features/datasources/elasticsearch/"
+    ]
+  },
+  {
+    "site": "https://www.elastic.co",
+    "pattern": "https://www\\.elastic\\.co/.*",
+    "urls": [
+      "https://www.elastic.co/guide/index.html",
+      "https://www.elastic.co/guide/en/elasticsearch/reference/current/index.html",
+      "https://www.elastic.co/guide/en/kibana/current/index.html",
+      "https://www.elastic.co/guide/en/logstash/current/index.html",
+      "https://www.elastic.co/guide/en/beats/libbeat/current/index.html"
+    ]
   }
 ]
