@@ -30,11 +30,13 @@ window.addEventListener('load', function() {
 
 //添加空格
 pangu.spacingPageBody();
-(function(a,e,f,g,b,c,d){a[b]||(a.FintezaCoreObject=b,a[b]=a[b]||function(){(a[b].q=a[b].q||[]).push(arguments)},a[b].l=1*new Date,c=e.createElement(f),d=e.getElementsByTagName(f)[0],c.async=!0,c.defer=!0,c.src=g,d&&d.parentNode&&d.parentNode.insertBefore(c,d))})
-(window,document,"script","https://content.mql5.com/core.js","fz");
-fz("register","website",{
-    "id": "ivcehxjjdgkzmntkeldolrkjdlezlhmlvx",
-    "trackHash": true,
-    "trackLinks": true,
-    "timeOnPage": true
-});
+
+var _hmt = _hmt || [];
+(function() {
+    var hm = document.createElement("script");
+    hm.src = "https://hm.baidu.com/hm.js?8a27e3605ed022be32b28b2c9478a17f";
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(hm, s);
+})();
+
+
