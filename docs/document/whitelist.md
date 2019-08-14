@@ -1,7 +1,8 @@
 ## 白名单
 
 ### 编程语言
-??? note "编程语言"
+
+!!! note "编程语言"
     * [https://dart.dev](https://s0s0dart0dev.icopy.site.icopy.site)
     * [https://www.scala-lang.org](https://s0s0www0scala-lang0org.icopy.site.icopy.site)
     * [https://elixir-lang.org](https://s0s0elixir-lang0org.icopy.site.icopy.site)
@@ -24,7 +25,8 @@
 
 
 ### 数据库
-??? note "数据库"
+
+!!! note "数据库"
     * [https://www.elastic.co](https://s0www0elastic0co.icopy.site)
     * [http://docs.grafana.org](http://docs0grafana0org.icopy.site)
     * [https://rethinkdb.com](https://s0rethinkdb0com.icopy.site)
@@ -39,7 +41,8 @@
 
 
 ### 前端
-??? note "前端"
+
+!!! note "前端"
     * [https://angular.io](https://s0angular0io.icopy.site)
     * [https://angularjs.org](https://s0angularjs0org.icopy.site)
     * [https://reactjs.org](https://s0reactjs0org.icopy.site)
@@ -55,7 +58,8 @@
     * [https://webpack.js.org](https://s0webpack0js0org.icopy.site)
 
 ### 运维
-??? note "运维"
+
+!!! note "运维"
     * [https://rancher.com](https://s0rancher0com.icopy.site)
     * [https://docs.docker.com](https://s0docs0docker0com.icopy.site)
     * [https://prometheus.io](https://s0prometheus0io.icopy.site)
@@ -65,7 +69,8 @@
     * [https://kubernetes.io](https://s0kubernetes0io.icopy.site)
 
 ### 其他
-??? note "其他"
+
+!!! note "其他"
     * [https://swagger.io](https://s0swagger0io.icopy.site)
     * [https://doc.cuba-platform.com](https://s0doc0cuba-platform0com.icopy.site)
     * [https://laravel.com](https://s0laravel0com.icopy.site)
