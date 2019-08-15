@@ -3,9 +3,9 @@
 ### 编程语言
 
 !!! note "编程语言"
-    * [https://dart.dev](https://s0s0dart0dev.icopy.site.icopy.site)
-    * [https://www.scala-lang.org](https://s0s0www0scala-lang0org.icopy.site.icopy.site)
-    * [https://elixir-lang.org](https://s0s0elixir-lang0org.icopy.site.icopy.site)
+    * [https://dart.dev](https://s0dart0dev.icopy.site)
+    * [https://www.scala-lang.org](https://s0www0scala-lang0org.icopy.site)
+    * [https://elixir-lang.org](https://s0elixir-lang0org.icopy.site)
     * [https://docs.python.org](https://s0docs0python0org.icopy.site)
     * [https://www.lua.org](https://s0www0lua0org.icopy.site)
     * [https://docs.scala-lang.org](https://s0docs0scala-lang0org.icopy.site)
