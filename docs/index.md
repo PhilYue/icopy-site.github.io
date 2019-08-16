@@ -40,7 +40,7 @@
 
 ### 添加书签,点击书签镜像当前页面
 
-!!! note "[icopy.site](javascript:(function(){location.href='https://icopy.site/'+location.href;})();)"
+!!! note "拖动 [icopy.site](javascript:(function(){location.href='https://icopy.site/'+location.href;})();)到书签栏"
 
 ### 地址栏URL前加icopy.site/
 
