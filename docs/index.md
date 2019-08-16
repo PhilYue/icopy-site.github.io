@@ -22,24 +22,9 @@
 </div>
 <script src="https://cdn.bootcss.com/jquery/3.3.1/jquery.min.js"></script>
 <script type="text/javascript">
-    function go() {
-        var url = $("#urlInput").val();
-        if (!url.startsWith("http")) {
-            url = "http://" + url;
-        }
-        var targetUrl = "https://"+"icopy.site/" + url;
-        try {
-            var urlAddress = new URL(url);
-            window.location = targetUrl;
-        } catch (e) {
-            $("#status").text("URL 不合法");
-        }
-    }
+ function go() {var url = $("#urlInput").val();if (!url.startsWith("http")) {url = "http://" + url;}var targetUrl = "https://"+"icopy.site/" + url;try {var urlAddress = new URL(url);window.location = targetUrl;} catch (e) {$("#status").text("URL 不合法");}}
 </script>
 
-### 添加书签,点击书签镜像当前页面
-
-!!! note "拖动 [icopy.site](javascript:(function(){location.href='https://icopy.site/'+location.href;})();)到书签栏"
 
 ### 地址栏URL前加icopy.site/
 
