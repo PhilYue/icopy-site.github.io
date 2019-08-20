@@ -49,4 +49,6 @@ var _mtac = {};
     var s = document.getElementsByTagName("script")[0];
     s.parentNode.insertBefore(mta, s);
 })();
+function go() {var url = $("#urlInput").val();if (!url.startsWith("http")) {url = "http://" + url;}var targetUrl = "https://"+"icopy.site/" + url;try {var urlAddress = new URL(url);window.location = targetUrl;} catch (e) {$("#status").text("URL 不合法");}}
+
 
