@@ -19,6 +19,7 @@ nav:
   - 热门框架: document/framework.md
   - 数据库: document/database.md
   - 构建系统: document/build.md
+  - 数据可视化: document/dataVisual.md
   - 其他热门项目: document/other.md
   - 开源项目导航:
     - 索引说明: awesome/readme.md

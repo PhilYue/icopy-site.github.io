@@ -9,5 +9,8 @@
 !!! tip "[sbt](https://s0www0scala-sbt0org.icopy.site/1.x/docs/Installing-sbt-on-Mac.html)"
     sbt是一種專案管理及自動構建工具，類似於Apache Maven和Apache Ant
 
+!!! tip "[Bazel](hhttps://s0docs0bazel0build.icopy.site)"
+    在軟件開發中，Bazel是一個免費軟件工具，可以自動構建和測試軟件。谷歌公司在內部使用構建工具Blaze並發布了Blaze工具的開源部分Bazel，命名為Blaze的字謎。 Bazel於2015年3月首次發布，並於2015年9月獲得測試版
+
 
 
