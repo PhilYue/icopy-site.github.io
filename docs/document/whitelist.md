@@ -108,4 +108,6 @@
     * [https://keras.io](https://s0keras0io.icopy.site)
     * [https://ktor.io](https://s0ktor0io.icopy.site)
     * [https://superset.incubator.apache.org](https://s0superset0incubator0apache0org.icopy.site)
+    * [https://www.tensorflow.org](https://s0www0tensorflow0org.icopy.site)
+    
 
