@@ -34,6 +34,9 @@
 * *整理汇总各类文档资源*
 
 ## 服务限制
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins>
+<script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 
 !!! warning "为防止滥用,只支持静态文档网站的镜像"
     网站域名或者网页路径中需要包含以下关键词:doc,guide,tutorial,manual,dev关键词
