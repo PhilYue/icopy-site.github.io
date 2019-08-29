@@ -4,7 +4,7 @@
 
 ### 拖动下方按钮到书签栏,点击书签翻译
 
-<a class="admonition info" href="javascript:void((function(){window.location='https://icopy.site/'+encodeURIComponent(window.location.href);})())"><span class="admonition-title">ICOPY.SITE</span></a>
+<a class="admonition info" href="javascript:void((function(){window.location='https://icopy.site/'+window.location.href;})())"><span class="admonition-title">ICOPY.SITE</span></a>
 
 ### 输入英文文档url立即构建镜像
 <div class="s130">
