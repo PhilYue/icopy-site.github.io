@@ -38,6 +38,7 @@
     * [https://sqlite.org](https://s0sqlite0org.icopy.site)
     * [https://pouchdb.com](https://s0pouchdb0com.icopy.site)
     * [http://www.liquibase.org](http://www0liquibase0org.icopy.site)
+    * [https://kafka.apache.org](https://s0kafka0apache0org.icopy.site)
 
 
 ### 前端
