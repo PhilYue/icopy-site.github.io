@@ -151,5 +151,52 @@
       "https://dev.mysql.com/doc/connectors/en/",
       "https://dev.mysql.com/doc/mysql-shell/8.0/en/"
     ]
+  },
+  {
+    "site": "https://docs.spring.io",
+    "pattern": "https://docs\\.spring\\.io/.*",
+    "urls": [
+      "https://docs.spring.io/spring-boot/docs/2.1.7.RELEASE/reference/html/",
+      "https://docs.spring.io/spring/docs/5.1.9.RELEASE/spring-framework-reference/core.html",
+      "https://docs.spring.io/spring-data/jpa/docs/2.1.10.RELEASE/reference/html/",
+      "https://docs.spring.io/spring-security/site/docs/5.2.0.M4/reference/html/"
+    ]
+  },
+  {
+    "site": "https://golang.org",
+    "pattern": "https://golang\\.org/.*",
+    "urls": [
+      "https://golang.org/doc/",
+      "https://golang.org/pkg/"
+    ]
+  },
+  {
+    "site": "https://pandas.pydata.org",
+    "pattern": "https://pandas\\.pydata\\.org/pandas-docs/stable/.*",
+    "urls": [
+      "https://pandas.pydata.org/pandas-docs/stable/"
+    ]
+  },
+  {
+    "site": "https://kotlinlang.org",
+    "pattern": "https://kotlinlang\\.org/docs/.*",
+    "urls": [
+      "https://kotlinlang.org/docs/reference/",
+      "https://kotlinlang.org/docs/tutorials/",
+    ]
+  },
+  {
+    "site": "https://api.dart.dev",
+    "pattern": "https://api\\.dart\\.dev/.*",
+    "urls": [
+      "https://api.dart.dev/stable/2.4.1/index.html",
+      "https://api.dart.dev/stable/2.4.1/dart-async/dart-async-library.html",
+      "https://api.dart.dev/stable/2.4.1/dart-collection/dart-collection-library.html",
+      "https://api.dart.dev/stable/2.4.1/dart-convert/dart-convert-library.html",
+      "https://api.dart.dev/stable/2.4.1/dart-developer/dart-developer-library.html",
+      "https://api.dart.dev/stable/2.4.1/dart-math/dart-math-library.html",
+      "https://api.dart.dev/stable/2.4.1/dart-html/dart-html-library.html",
+      "https://api.dart.dev/stable/2.4.1/dart-js/dart-js-library.html"
+    ]
   }
 ]
