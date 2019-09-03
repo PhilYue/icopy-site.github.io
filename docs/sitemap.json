@@ -182,7 +182,7 @@
     "pattern": "https://kotlinlang\\.org/docs/.*",
     "urls": [
       "https://kotlinlang.org/docs/reference/",
-      "https://kotlinlang.org/docs/tutorials/",
+      "https://kotlinlang.org/docs/tutorials/"
     ]
   },
   {
