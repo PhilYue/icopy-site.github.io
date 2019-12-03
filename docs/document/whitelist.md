@@ -26,10 +26,10 @@
 ### 数据库
 
 !!! note "数据库"
-    * [https://www.elastic.co](https://s0www0elastic0co.icopy.site)
+    * [https://www.elastic.co/guide/](https://s0www0elastic0co.icopy.site/guide/index.html)
     * [http://docs.grafana.org](http://docs0grafana0org.icopy.site)
     * [https://docs.mongodb.com](https://s0docs0mongodb0com.icopy.site)
-    * [https://www.cockroachlabs.com](https://s0www0cockroachlabs0com.icopy.site)
+    * [https://www.cockroachlabs.com/docs/](https://s0www0cockroachlabs0com.icopy.site/docs/)
     * [https://docs.influxdata.com](https://s0docs0influxdata0com.icopy.site)
     * [https://redis.io](https://s0redis0io.icopy.site)
     * [http://hbase.apache.org](http://hbase0apache0org.icopy.site)
@@ -46,7 +46,7 @@
     * [https://angularjs.org](https://s0angularjs0org.icopy.site)
     * [https://reactjs.org](https://s0reactjs0org.icopy.site)
     * [https://dart.dev](https://s0webdev0dartlang0org.icopy.site)
-    * [https://ionicframework.com](https://s0ionicframework0com.icopy.site)
+    * [https://ionicframework.com/docs](https://s0ionicframework0com.icopy.site/docs)
     * [https://www.gatsbyjs.org](https://s0www0gatsbyjs.org.icopy.site)
     * [https://koajs.com](https://s0koajs0com.icopy.site)
     * [http://docs.videojs.com](http://docs0videojs0com.icopy.site)
@@ -63,21 +63,25 @@
     * [https://prometheus.io](https://s0prometheus0io.icopy.site)
     * [https://docs.openstack.org](https://s0docs0openstack0org.icopy.site)
     * [https://docs.gradle.org](https://s0docs0gradle0org.icopy.site)
-    * [https://gradle.org](https://s0gradle0org0icopy.site)
+    * [https://gradle.org](https://s0gradle0org.icopy.site)
+    * [https://circleci.com/docs/](https://s0circleci0com.icopy.site/docs/)
+
+### 热门框架
+
+!!! note "热门框架"
+    * [https://docs.spring.io](https://s0docs0spring0io.icopy.site/spring-boot/docs/2.2.1.RELEASE/reference/html/)
 
 ### 其他
 
 !!! note "其他"
-    * [https://swagger.io](https://s0swagger0io.icopy.site)
+    * [https://swagger.io/docs/](https://s0swagger0io.icopy.site/docs/)
     * [https://doc.cuba-platform.com](https://s0doc0cuba-platform0com.icopy.site)
     * [https://laravel.com](https://s0laravel0com.icopy.site)
-    * [https://facebook.github.io](https://s0facebook0github0io.icopy.site)
     * [https://docs.scrapy.org](https://s0docs0scrapy0org.icopy.site)
     * [https://gohugo.io](https://s0gohugo0io.icopy.site)
     * [https://docs.fastlane.tools](https://s0docs0fastlane0tools.icopy.site)
     * [https://symfony.com](https://s0symfony0com.icopy.site)
     * [http://spark.apache.org](http://spark0apache0org.icopy.site)
-    * [https://caddyserver.com](https://s0caddyserver0com.icopy.site)
     * [https://docs.npmjs.com](https://s0docs0npmjs0com.icopy.site)
     * [https://cheerio.js.org](https://s0cheerio0js0org.icopy.site)
     * [http://www.tornadoweb.org](http://www0tornadoweb0org.icopy.site)
