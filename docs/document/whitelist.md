@@ -113,6 +113,17 @@
     * [http://www.rubocop.org/en/stable](https://s0docs0rubocop0org.icopy.site/en/stable)
     * [https://docs.nvidia.com](https://s0docs0nvidia0com.icopy.site)
     * [https://doc.qt.io](https://s0doc0qt0io.icopy.site)
+    * [https://projectreactor.io/docs](https://s0projectreactor0io.icopy.site/docs)
+    * [http://www.ffmpeg.org](https://www0ffmpeg0org.icopy.site)
+    * [https://gstreamer.freedesktop.org](https://s0gstreamer0freedesktop0org.icopy.site)
+    * [https://www.consul.io/docs](https://s0www0consul0io.icopy.site/docs)
+    * [https://www.terraform.io/docs](https://s0www0terraform0io.icopy.site/docs)
+    * [https://www.packer.io/docs](https://s0www0packer0io.icopy.site/docs)
+    * [https://www.nomadproject.io/docs](https://s0www0nomadproject0io.icopy.site/docs)
+    * [https://www.vaultproject.io/docs](https://s0www0vaultproject0io.icopy.site/docs)
+    * [https://zeit.co/docs](https://s0zeit0co.icopy.site/docs)
+    * [https://docs.netlify.com](https://s0docs0netlify0com.icopy.site)
+    * [https://cloud.spring.io](https://s0cloud0spring0io.icopy.site/spring-cloud-static/spring-cloud-stream/3.0.0.RELEASE/reference/html/)
 
 
 
