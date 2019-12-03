@@ -26,10 +26,10 @@
 ### 数据库
 
 !!! note "数据库"
-    * [https://www.elastic.co/guide/](https://s0www0elastic0co.icopy.site/guide/index.html)
+    * [https://www.elastic.co/guide](https://s0www0elastic0co.icopy.site/guide/index.html)
     * [http://docs.grafana.org](http://docs0grafana0org.icopy.site)
     * [https://docs.mongodb.com](https://s0docs0mongodb0com.icopy.site)
-    * [https://www.cockroachlabs.com/docs/](https://s0www0cockroachlabs0com.icopy.site/docs/)
+    * [https://www.cockroachlabs.com/docs](https://s0www0cockroachlabs0com.icopy.site/docs)
     * [https://docs.influxdata.com](https://s0docs0influxdata0com.icopy.site)
     * [https://redis.io](https://s0redis0io.icopy.site)
     * [http://hbase.apache.org](http://hbase0apache0org.icopy.site)
@@ -37,6 +37,7 @@
     * [https://pouchdb.com](https://s0pouchdb0com.icopy.site)
     * [http://www.liquibase.org](http://www0liquibase0org.icopy.site)
     * [https://kafka.apache.org](https://s0kafka0apache0org.icopy.site)
+    * [https://www.postgresql.org](https://s0www0postgresql0org.icopy.site/docs/)
 
 
 ### 前端
@@ -64,12 +65,14 @@
     * [https://docs.openstack.org](https://s0docs0openstack0org.icopy.site)
     * [https://docs.gradle.org](https://s0docs0gradle0org.icopy.site)
     * [https://gradle.org](https://s0gradle0org.icopy.site)
-    * [https://circleci.com/docs/](https://s0circleci0com.icopy.site/docs/)
+    * [https://circleci.com/docs](https://s0circleci0com.icopy.site/docs)
 
 ### 热门框架
 
 !!! note "热门框架"
     * [https://docs.spring.io](https://s0docs0spring0io.icopy.site/spring-boot/docs/2.2.1.RELEASE/reference/html/)
+    * [https://vertx.io](https://s0vertx0io.icopy.site/docs/)
+    * [https://www.playframework.com](https://s0www0playframework0com.icopy.site)
 
 ### 其他
 
@@ -93,7 +96,6 @@
     * [http://netty.io](http://netty0io.icopy.site)
     * [http://tomcat.apache.org](http://tomcat0apache0org.icopy.site)
     * [http://nginx.org](http://nginx0org.icopy.site)
-    * [https://www.playframework.com](https://s0www0playframework0com.icopy.site)
     * [https://doc.akka.io](https://s0doc0akka0io.icopy.site)
     * [http://reactivex.io](http://reactivex0io.icopy.site)
     * [http://www.parallec.io](http://www0parallec0io.icopy.site)
@@ -107,6 +109,11 @@
     * [https://keras.io](https://s0keras0io.icopy.site)
     * [https://ktor.io](https://s0ktor0io.icopy.site)
     * [https://superset.incubator.apache.org](https://s0superset0incubator0apache0org.icopy.site)
+    * [https://code.visualstudio.com/docs](https://s0code0visualstudio0com.icopy.site/docs)
+    * [http://www.rubocop.org/en/stable](https://s0docs0rubocop0org.icopy.site/en/stable)
+    * [https://docs.nvidia.com](https://s0docs0nvidia0com.icopy.site)
+    * [https://doc.qt.io](https://s0doc0qt0io.icopy.site)
+
 
 
 
