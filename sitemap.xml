@@ -6,6 +6,11 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
+     <loc>https://icopy.site/document/whitelist/</loc>
+     <lastmod>2019-12-03</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
      <loc>https://icopy.site/document/readthedocs/</loc>
      <lastmod>2019-12-03</lastmod>
      <changefreq>daily</changefreq>
@@ -58,11 +63,6 @@
     <url>
      <loc></loc>
      
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://icopy.site/document/whitelist/</loc>
-     <lastmod>2019-12-03</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
