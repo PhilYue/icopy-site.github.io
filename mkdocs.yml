@@ -15,6 +15,7 @@ copyright: 'Copyright &copy; 2016 - 2019'
 # Contents
 nav:
   - 开源文档中文镜像服务: index.md
+  - 镜像网站白名单: document/whitelist.md
   - readthedocs.io: document/readthedocs.md
   - 编程语言: document/language.md
   - 热门框架: document/framework.md
@@ -27,7 +28,6 @@ nav:
     - 索引说明: awesome/readme.md
     - 中文导航: https://asmcn.icopy.site/
     - 英文导航: https://asmen.icopy.site/
-  - 镜像网站名单: document/whitelist.md
   - 印记中文: https://docschina.org/
 
 
