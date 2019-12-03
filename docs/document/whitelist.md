@@ -17,7 +17,6 @@
     * [http://groovy-lang.org](http://groovy-lang0org.icopy.site)
     * [https://clojure.org](https://s0clojure0org.icopy.site)
     * [https://kotlinlang.org](https://s0kotlinlang0org.icopy.site)
-    * [https://swift.org](https://s0swift0org.icopy.site)
     * [https://fsharp.org](https://s0fsharp0org.icopy.site)
     * [https://www.haskell.org](https://s0www0haskell0org.icopy.site)
     * [https://dart.dev](https://s0dart0dev.icopy.site)
@@ -29,7 +28,6 @@
 !!! note "数据库"
     * [https://www.elastic.co](https://s0www0elastic0co.icopy.site)
     * [http://docs.grafana.org](http://docs0grafana0org.icopy.site)
-    * [https://rethinkdb.com](https://s0rethinkdb0com.icopy.site)
     * [https://docs.mongodb.com](https://s0docs0mongodb0com.icopy.site)
     * [https://www.cockroachlabs.com](https://s0www0cockroachlabs0com.icopy.site)
     * [https://docs.influxdata.com](https://s0docs0influxdata0com.icopy.site)
@@ -61,13 +59,11 @@
 ### 运维
 
 !!! note "运维"
-    * [https://rancher.com](https://s0rancher0com.icopy.site)
     * [https://docs.docker.com](https://s0docs0docker0com.icopy.site)
     * [https://prometheus.io](https://s0prometheus0io.icopy.site)
     * [https://docs.openstack.org](https://s0docs0openstack0org.icopy.site)
     * [https://docs.gradle.org](https://s0docs0gradle0org.icopy.site)
     * [https://gradle.org](https://s0gradle0org0icopy.site)
-    * [https://kubernetes.io](https://s0kubernetes0io.icopy.site)
 
 ### 其他
 
@@ -97,9 +93,7 @@
     * [https://doc.akka.io](https://s0doc0akka0io.icopy.site)
     * [http://reactivex.io](http://reactivex0io.icopy.site)
     * [http://www.parallec.io](http://www0parallec0io.icopy.site)
-    * [https://developer.apple.com](https://s0developer0apple0com.icopy.site)
     * [http://spoon.gforge.inria.fr](http://spoon0gforge0inria0fr.icopy.site)
-    * [http://logo.clearbit.com](http://logo0clearbit0com.icopy.site)
     * [https://pytorch.org](https://s0pytorch0org.icopy.site)
     * [https://graphql.org](https://s0graphql0org.icopy.site)
     * [https://keystonejs.com](https://s0keystonejs0com.icopy.site)
@@ -109,6 +103,6 @@
     * [https://keras.io](https://s0keras0io.icopy.site)
     * [https://ktor.io](https://s0ktor0io.icopy.site)
     * [https://superset.incubator.apache.org](https://s0superset0incubator0apache0org.icopy.site)
-    * [https://www.tensorflow.org](https://s0www0tensorflow0org.icopy.site)
-    
+
+
 
