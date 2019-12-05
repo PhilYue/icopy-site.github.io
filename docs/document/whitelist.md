@@ -69,6 +69,7 @@
     * [https://docs.gradle.org](https://s0docs0gradle0org.icopy.site)
     * [https://gradle.org](https://s0gradle0org.icopy.site)
     * [https://circleci.com/docs](https://s0circleci0com.icopy.site/docs)
+    * [https://docs.brew.sh](https://s0docs0brew0sh.icopy.site/docs)
 
 ### 热门框架
 
@@ -80,9 +81,14 @@
     * [https://api.flutter.dev](https://s0api0flutter0dev.icopy.site)
     * [https://docs.scrapy.org](https://s0docs0scrapy0org.icopy.site)
     * [http://spark.apache.org](http://spark0apache0org.icopy.site)
+    * [https://docs.unity3d.com/Manual](http://s0docs0unity3d0com.icopy.site/Manual/index.html)
 ### 文档站
 !!! note "文档站"
-    * [https://hexdocs.pm/](https://s0hexdocs0pm.icopy.site/docs/)
+    * [https://hexdocs.pm](https://s0hexdocs0pm.icopy.site/docs/)
+    * [https://docs.rs](https://s0docs0rs.icopy.site/docs/)
+    * [https://godoc.org](https://s0godoc0org.icopy.site/docs/)
+    * [https://devdocs.io](https://s0devdocs0io.icopy.site/)
+    * [https://cran.r-project.org/web/packages](https://s0cran0r-project0org.icopy.site/web/packages/available_packages_by_name.html)
 
 
 ### 其他
