@@ -84,10 +84,11 @@
     * [https://docs.unity3d.com/Manual](http://s0docs0unity3d0com.icopy.site/Manual/index.html)
 ### 文档站
 !!! note "文档站"
-    * [https://hexdocs.pm](https://s0hexdocs0pm.icopy.site/docs/)
-    * [https://docs.rs](https://s0docs0rs.icopy.site/docs/)
-    * [https://godoc.org](https://s0godoc0org.icopy.site/docs/)
-    * [https://devdocs.io](https://s0devdocs0io.icopy.site/)
+    * [https://hexdocs.pm](https://s0hexdocs0pm.icopy.site)
+    * [https://hex.pm](https://s0hex0pm.icopy.site/packages)
+    * [https://docs.rs](https://s0docs0rs.icopy.site)
+    * [https://godoc.org](https://s0godoc0org.icopy.site)
+    * [https://devdocs.io](https://s0devdocs0io.icopy.site)
     * [https://cran.r-project.org/web/packages](https://s0cran0r-project0org.icopy.site/web/packages/available_packages_by_name.html)
 
 
