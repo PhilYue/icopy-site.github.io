@@ -68,6 +68,7 @@
     * [https://docs.openstack.org](https://s0docs0openstack0org.icopy.site)
     * [https://docs.gradle.org](https://s0docs0gradle0org.icopy.site)
     * [https://gradle.org](https://s0gradle0org.icopy.site)
+    * [https://guides.gradle.org](https://s0guides0gradle0org.icopy.site/creating-new-gradle-builds/)
     * [https://circleci.com/docs](https://s0circleci0com.icopy.site/docs)
     * [https://docs.brew.sh](https://s0docs0brew0sh.icopy.site/docs)
 
