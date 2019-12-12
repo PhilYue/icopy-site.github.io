@@ -83,6 +83,7 @@
     * [http://spark.apache.org](http://spark0apache0org.icopy.site)
     * [https://docs.unity3d.com/Manual](http://s0docs0unity3d0com.icopy.site/Manual/index.html)
 ### 文档站
+
 !!! note "文档站"
     * [https://hexdocs.pm](https://s0hexdocs0pm.icopy.site)
     * [https://hex.pm](https://s0hex0pm.icopy.site/packages)
@@ -92,6 +93,15 @@
     * [https://www.npmjs.com](https://s0www0npmjs0com.icopy.site/search?q=react)
     * [https://cran.r-project.org/web/packages](https://s0cran0r-project0org.icopy.site/web/packages/available_packages_by_name.html)
 
+### AI
+
+!!! note "AI"
+    * [https://docs.fast.ai](https://s0docs0fast0ai.icopy.site)
+
+### 安全
+
+!!! note "安全"
+     * [https://docs.zeek.org](https://s0docs0zeek0org.icopy.site)
 
 ### 其他
 
