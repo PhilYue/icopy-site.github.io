@@ -47,6 +47,7 @@
     * [https://neo4j.com/docs](https://s0neo4j0com.icopy.site/docs/)
     * [https://docs.couchdb.org](https://s0docs0couchdb0org.icopy.site/en/stable/)
     * [https://lucene.apache.org](https://s0lucene0apache0org.icopy.site)
+    * [https://dev.mysql.com/doc](https://s0dev0mysql0com.icopy.site/doc/)
 
 
 ### 前端
@@ -65,6 +66,7 @@
     * [https://mermaidjs.github.io](https://s0mermaidjs0github0io.icopy.site)
     * [https://mochajs.org](https://s0mochajs0org.icopy.site)
     * [https://webpack.js.org](https://s0webpack0js0org.icopy.site)
+    * [https://nodejs.org/docs](https://s0nodejs0org.icopy.site/docs/latest/api/)
 
 ### 运维
 
@@ -133,7 +135,7 @@
     * [https://docs.traefik.io](https://s0docs0traefik0io.icopy.site)
     * [http://docs.parseplatform.org](http://docs0parseplatform0org.icopy.site)
     * [https://getcomposer.org](https://s0getcomposer0org.icopy.site)
-    * [http://pandas.pydata.org](http://pandas0pydata0org.icopy.site)
+    * [http://pandas.pydata.org](http://s0pandas0pydata0org.icopy.site)
     * [http://netty.io](http://netty0io.icopy.site)
     * [http://tomcat.apache.org](http://tomcat0apache0org.icopy.site)
     * [http://nginx.org](http://nginx0org.icopy.site)
