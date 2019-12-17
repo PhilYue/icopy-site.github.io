@@ -42,6 +42,11 @@
     * [http://www.liquibase.org](http://www0liquibase0org.icopy.site)
     * [https://kafka.apache.org](https://s0kafka0apache0org.icopy.site)
     * [https://www.postgresql.org](https://s0www0postgresql0org.icopy.site/docs/)
+    * [https://cassandra.apache.org](https://s0cassandra0apache0org.icopy.site/doc/latest/)
+    * [https://clickhouse.yandex/docs](https://s0clickhouse0yandex.icopy.site/docs/zh/)
+    * [https://neo4j.com/docs](https://s0neo4j0com.icopy.site/docs/)
+    * [https://docs.couchdb.org](https://s0docs0couchdb0org.icopy.site/en/stable/)
+    * [https://lucene.apache.org](https://s0lucene0apache0org.icopy.site)
 
 
 ### 前端
@@ -97,6 +102,10 @@
     * [https://devdocs.io](https://s0devdocs0io.icopy.site)
     * [https://www.npmjs.com](https://s0www0npmjs0com.icopy.site/search?q=react)
     * [https://cran.r-project.org/web/packages](https://s0cran0r-project0org.icopy.site/web/packages/available_packages_by_name.html)
+
+### 大数据
+!!! note "大数据"
+    * [https://hadoop.apache.org](https://s0hadoop0apache0org.icopy.site)
 
 ### AI
 
