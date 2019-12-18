@@ -79,12 +79,14 @@
     * [https://guides.gradle.org](https://s0guides0gradle0org.icopy.site/creating-new-gradle-builds/)
     * [https://circleci.com/docs](https://s0circleci0com.icopy.site/docs)
     * [https://docs.brew.sh](https://s0docs0brew0sh.icopy.site/docs)
-    * [https://jenkins-x.io](https://s0jenkins-x0io.icopy.site/docs/)
+    * [https://jenkins-x.io](https://s0jenkins-x0io.icopy.site)
+    * [https://kubeless.io](https://s0kubeless0io.icopy.site)
 
 ### 热门框架
 
 !!! note "热门框架"
-    * [https://docs.spring.io](https://s0docs0spring0io.icopy.site/spring-boot/docs/2.2.1.RELEASE/reference/html/)
+    * [https://docs.spring.io](https://s0docs0spring0io.icopy.site/spring/docs/current/spring-framework-reference/)
+    * [https://spring.io](https://spring0io.icopy.site/docs/reference)
     * [https://vertx.io](https://s0vertx0io.icopy.site/docs/)
     * [https://www.playframework.com](https://s0www0playframework0com.icopy.site)
     * [https://flutter.dev/docs](https://s0flutter0dev.icopy.site/docs)
@@ -168,6 +170,7 @@
     * [https://zeit.co/docs](https://s0zeit0co.icopy.site/docs)
     * [https://docs.netlify.com](https://s0docs0netlify0com.icopy.site)
     * [https://docs.nextcloud.com](https://s0docs0nextcloud0com.icopy.site)
+    * [http://docs.bsframework.io](https://s0docs0bsframework0io.icopy.site/latest/manuals.html)
     * [https://cloud.spring.io](https://s0cloud0spring0io.icopy.site/spring-cloud-static/spring-cloud-stream/3.0.0.RELEASE/reference/html/)
 
 
