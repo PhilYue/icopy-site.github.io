@@ -79,6 +79,7 @@
     * [https://guides.gradle.org](https://s0guides0gradle0org.icopy.site/creating-new-gradle-builds/)
     * [https://circleci.com/docs](https://s0circleci0com.icopy.site/docs)
     * [https://docs.brew.sh](https://s0docs0brew0sh.icopy.site/docs)
+    * [https://jenkins-x.io](https://s0jenkins-x0io.icopy.site/docs/)
 
 ### 热门框架
 
@@ -91,6 +92,7 @@
     * [https://docs.scrapy.org](https://s0docs0scrapy0org.icopy.site)
     * [http://spark.apache.org](http://spark0apache0org.icopy.site)
     * [https://docs.unity3d.com/Manual](http://s0docs0unity3d0com.icopy.site/Manual/index.html)
+    * [https://helidon.io](http://s0helidon0io.icopy.site/docs/latest/#/about/01_overview)
     
 ### 文档站
 
@@ -113,6 +115,11 @@
 
 !!! note "AI"
     * [https://docs.fast.ai](https://s0docs0fast0ai.icopy.site)
+    * [https://fasttext.cc](https://s0fasttext0cc.icopy.site)
+    * [https://mxnet.apache.org](https://s0mxnet0apache0org.icopy.site)
+    * [https://scikit-learn.org](https://s0scikit-learn0org.icopy.site)
+    * [https://www.tensorflow.org](https://s0www0tensorflow0org.icopy.site)
+    * [https://pytorch.org](https://s0pytorch0org.icopy.site)
 
 ### 安全
 
@@ -143,7 +150,6 @@
     * [http://reactivex.io](http://reactivex0io.icopy.site)
     * [http://www.parallec.io](http://www0parallec0io.icopy.site)
     * [http://spoon.gforge.inria.fr](http://spoon0gforge0inria0fr.icopy.site)
-    * [https://pytorch.org](https://s0pytorch0org.icopy.site)
     * [https://graphql.org](https://s0graphql0org.icopy.site)
     * [https://keystonejs.com](https://s0keystonejs0com.icopy.site)
     * [http://www.ninjaframework.org](http://www0ninjaframework0org.icopy.site)
