@@ -67,6 +67,9 @@
     * [https://mochajs.org](https://s0mochajs0org.icopy.site)
     * [https://webpack.js.org](https://s0webpack0js0org.icopy.site)
     * [https://nodejs.org/docs](https://s0nodejs0org.icopy.site/docs/latest/api/)
+    * [https://lodash.dev](https://s0lodash0dev.icopy.site)
+    * [https://pptr.dev](https://s0pptr0dev.icopy.site)
+    
 
 ### 运维
 
@@ -106,6 +109,7 @@
     * [https://docs.rs](https://s0docs0rs.icopy.site)
     * [https://godoc.org](https://s0godoc0org.icopy.site)
     * [https://devdocs.io](https://s0devdocs0io.icopy.site)
+    * [https://web.dev](https://s0web0dev.icopy.site)
     * [https://www.npmjs.com](https://s0www0npmjs0com.icopy.site/search?q=react)
     * [https://cran.r-project.org/web/packages](https://s0cran0r-project0org.icopy.site/web/packages/available_packages_by_name.html)
 
@@ -170,6 +174,7 @@
     * [https://zeit.co/docs](https://s0zeit0co.icopy.site/docs)
     * [https://docs.netlify.com](https://s0docs0netlify0com.icopy.site)
     * [https://docs.nextcloud.com](https://s0docs0nextcloud0com.icopy.site)
+    * [https://v8.dev](https://s0v80dev.icopy.site)
     * [http://docs.bsframework.io](https://s0docs0bsframework0io.icopy.site/latest/manuals.html)
     * [https://cloud.spring.io](https://s0cloud0spring0io.icopy.site/spring-cloud-static/spring-cloud-stream/3.0.0.RELEASE/reference/html/)
 
