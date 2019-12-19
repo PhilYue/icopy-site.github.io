@@ -69,6 +69,8 @@
     * [https://nodejs.org/docs](https://s0nodejs0org.icopy.site/docs/latest/api/)
     * [https://lodash.dev](https://s0lodash0dev.icopy.site)
     * [https://pptr.dev](https://s0pptr0dev.icopy.site)
+    * [https://mongoosejs.com](https://s0mongoosejs0com.icopy.site)
+    * [https://expressjs.com](https://s0expressjs0com.icopy.site)
     
 
 ### 运维
