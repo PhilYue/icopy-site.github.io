@@ -70,6 +70,12 @@
     * [https://pptr.dev](https://s0pptr0dev.icopy.site)
     * [https://mongoosejs.com](https://s0mongoosejs0com.icopy.site)
     * [https://expressjs.com](https://s0expressjs0com.icopy.site)
+    * [https://lodash.com](https://s0lodash0com.icopy.site)
+    * [https://momentjs.com](https://s0momentjs0com.icopy.site)
+    * [https://underscorejs.org](https://s0underscorejs0org.icopy.site)
+    * [https://rxjs.dev](https://s0rxjs0dev.icopy.site)
+    * [https://getbootstrap.com](https://s0getbootstrap0com.icopy.site)
+    * [https://caolan.github.io/async/v3](https://s0caolan0github0io.icopy.site/async/v3/docs.html)
     
 
 ### 运维
@@ -85,6 +91,7 @@
     * [https://docs.brew.sh](https://s0docs0brew0sh.icopy.site/docs)
     * [https://jenkins-x.io](https://s0jenkins-x0io.icopy.site)
     * [https://kubeless.io](https://s0kubeless0io.icopy.site)
+    * [https://www.pulumi.com/docs](https://s0www0pulumi0com.icopy.site/docs)
 
 ### 热门框架
 
@@ -97,8 +104,10 @@
     * [https://api.flutter.dev](https://s0api0flutter0dev.icopy.site)
     * [https://docs.scrapy.org](https://s0docs0scrapy0org.icopy.site)
     * [http://spark.apache.org](http://spark0apache0org.icopy.site)
-    * [https://docs.unity3d.com/Manual](http://s0docs0unity3d0com.icopy.site/Manual/index.html)
-    * [https://helidon.io](http://s0helidon0io.icopy.site/docs/latest/#/about/01_overview)
+    * [https://docs.unity3d.com/Manual](https://s0docs0unity3d0com.icopy.site/Manual/index.html)
+    * [https://helidon.io](https://s0helidon0io.icopy.site/docs/latest/#/about/01_overview)
+    * [https://serverless.com/framework/docs](https://s0serverless0com.icopy.site/framework/docs/)
+    
     
 ### 文档站
 
@@ -127,6 +136,7 @@
     * [https://scikit-learn.org](https://s0scikit-learn0org.icopy.site)
     * [https://www.tensorflow.org](https://s0www0tensorflow0org.icopy.site)
     * [https://pytorch.org](https://s0pytorch0org.icopy.site)
+    * [https://nni.readthedocs.io/en/latest/](https://s0nni0readthedocs0io.icopy.site/en/latest/)
 
 ### 安全
 
