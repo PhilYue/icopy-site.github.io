@@ -30,7 +30,7 @@
 ### 数据库
 
 !!! note "数据库"
-    * [https://www.elastic.co/guide](https://s0www0elastic0co.icopy.site/guide/index.html)
+    * [https://www.elastic.co](https://s0www0elastic0co.icopy.site/guide/index.html)
     * [http://docs.grafana.org](http://docs0grafana0org.icopy.site)
     * [https://docs.mongodb.com](https://s0docs0mongodb0com.icopy.site)
     * [https://www.cockroachlabs.com/docs](https://s0www0cockroachlabs0com.icopy.site/docs)
