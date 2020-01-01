@@ -77,7 +77,13 @@
     * [https://getbootstrap.com](https://s0getbootstrap0com.icopy.site)
     * [https://caolan.github.io/async/v3](https://s0caolan0github0io.icopy.site/async/v3/docs.html)
     
+### 数据可视化
 
+!!! note "数据可视化"
+    * [https://www.metabase.com/docs](https://s0www0metabase0com.icopy.site/docs/latest/)
+    * [https://superset.incubator.apache.org](https://s0superset0incubator0apache0org.icopy.site)
+    * [https://redash.io/help](https://s0redash0io.icopy.site/help)
+    
 ### 运维
 
 !!! note "运维"
