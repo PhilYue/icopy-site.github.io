@@ -118,7 +118,7 @@
 ### 文档站
 
 !!! note "文档站"
-    * [https://developer.mozilla.org/en-US](https://s0developer0mozilla0org.icopy.site/en-US)
+    * [https://developer.mozilla.org](https://s0developer0mozilla0org.icopy.site/en-US)
     * [https://hexdocs.pm](https://s0hexdocs0pm.icopy.site)
     * [https://rubydoc.info](https://s0rubydoc0info.icopy.site)
     * [https://hex.pm](https://s0hex0pm.icopy.site/packages)
