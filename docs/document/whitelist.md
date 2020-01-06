@@ -125,7 +125,6 @@
     * [https://hex.pm](https://s0hex0pm.icopy.site/packages)
     * [https://docs.rs](https://s0docs0rs.icopy.site)
     * [https://godoc.org](https://s0godoc0org.icopy.site)
-    * [https://devdocs.io](https://s0devdocs0io.icopy.site)
     * [https://web.dev](https://s0web0dev.icopy.site)
     * [https://www.npmjs.com](https://s0www0npmjs0com.icopy.site/search?q=react)
     * [https://cran.r-project.org/web/packages](https://s0cran0r-project0org.icopy.site/web/packages/available_packages_by_name.html)
