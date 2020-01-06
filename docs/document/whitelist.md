@@ -98,6 +98,7 @@
     * [https://jenkins-x.io](https://s0jenkins-x0io.icopy.site)
     * [https://kubeless.io](https://s0kubeless0io.icopy.site)
     * [https://www.pulumi.com/docs](https://s0www0pulumi0com.icopy.site/docs)
+    * [https://docs.gitlab.com](https://s0docs0gitlab0com.icopy.site)
 
 ### 热门框架
 
