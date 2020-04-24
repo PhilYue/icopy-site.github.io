@@ -143,6 +143,13 @@
 !!! note "安全"
      * [https://docs.zeek.org](https://s0docs0zeek0org.icopy.site)
 
+### 量化
+
+!!! note "量化"
+     * [https://www.zipline.io](https://s0www0zipline0io.icopy.site)
+     * [https://www.backtrader.com](https://s0www0backtrader0com.icopy.site)
+     
+
 ### 其他
 
 !!! note "其他"
