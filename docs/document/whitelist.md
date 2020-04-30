@@ -136,6 +136,7 @@
     * [https://mxnet.apache.org](https://s0mxnet0apache0org.icopy.site)
     * [https://www.tensorflow.org](https://s0www0tensorflow0org.icopy.site)
     * [https://pytorch.org](https://s0pytorch0org.icopy.site)
+    * [https://scikit-learn.org/stable/](https://scikit-learn0org.icopy.site/stable/)
     * [https://nni.readthedocs.io/en/latest/](https://s0nni0readthedocs0io.icopy.site/en/latest/)
 
 ### 安全
@@ -192,6 +193,7 @@
     * [https://v8.dev](https://s0v80dev.icopy.site)
     * [https://cache2k.org](https://s0cache2k0org.icopy.site)
     * [http://docs.bsframework.io](http://docs0bsframework0io.icopy.site/latest/index.html)
+    * [https://www.selenium.dev/documentation/en/](http://www0selenium0dev.icopy.site/documentation/en/)
     * [https://www.tradingview.com/pine-script-docs](https://s0www0tradingview0com.icopy.site/pine-script-docs/en/v4/index.html)
     * [https://cloud.spring.io](https://s0cloud0spring0io.icopy.site/spring-cloud-static/spring-cloud-stream/3.0.0.RELEASE/reference/html/)
     
