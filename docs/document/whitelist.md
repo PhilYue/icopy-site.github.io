@@ -47,6 +47,7 @@
     * [https://docs.couchdb.org](https://s0docs0couchdb0org.icopy.site/en/stable/)
     * [https://lucene.apache.org](https://s0lucene0apache0org.icopy.site)
     * [https://dev.mysql.com/doc](https://s0dev0mysql0com.icopy.site/doc/)
+    * [https://mongodb.github.io/node-mongodb-native/](https://s0mongodb0github0io.icopy.site/node-mongodb-native/)
 
 
 ### 前端
@@ -181,6 +182,7 @@
     * [https://ktor.io](https://s0ktor0io.icopy.site)
     * [https://superset.incubator.apache.org](https://s0superset0incubator0apache0org.icopy.site)
     * [https://code.visualstudio.com/docs](https://s0code0visualstudio0com.icopy.site/docs)
+    * [https://code.visualstudio.com/updates/](https://s0code0visualstudio0com.icopy.site/updates)
     * [http://www.rubocop.org/en/stable](https://s0rubocop0org.icopy.site/en/stable)
     * [https://docs.nvidia.com](https://s0docs0nvidia0com.icopy.site)
     * [https://doc.qt.io](https://s0doc0qt0io.icopy.site)
