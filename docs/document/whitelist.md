@@ -73,6 +73,7 @@
     * [https://rxjs.dev](https://s0rxjs0dev.icopy.site)
     * [https://getbootstrap.com](https://s0getbootstrap0com.icopy.site)
     * [https://caolan.github.io/async/v3](https://s0caolan0github0io.icopy.site/async/v3/docs.html)
+    * [http://fabricjs.com/docs/](http://fabricjs0com.icopy.site/docs/)
     
 ### 数据可视化
 
